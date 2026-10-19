@@ -1,6 +1,6 @@
 # panrb-dashboard — Data CSV Prototype SIAP Digital
 
-**DATA SIMULASI / PROTOTYPE — BUKAN DATA RIIL.** Seluruh nama instansi, aplikasi, nilai, dan status di repo ini adalah data simulasi untuk prototype Dashboard Arsitektur Aplikasi Pemerintah Digital pada ARIS MashZone.
+**DATA SIMULASI / PROTOTYPE — BUKAN DATA RIIL.** Seluruh nama aplikasi, nilai, dan status di repo ini adalah data simulasi untuk prototype Dashboard Arsitektur Aplikasi Pemerintah Digital pada ARIS MashZone. Nama 8 instansi (INS01–INS08) diambil dari daftar Instansi Pusat (`instansi-pusat.xls`) **hanya sebagai label**; angka yang dikaitkan dengannya bukan kondisi riil instansi tersebut.
 
 File CSV di root repo dibaca oleh Data Feed ARIS (`DEMO_DF_SIAP_*`) melalui URL `https://raw.githubusercontent.com/bintangkurniawanpp/panrb-dashboard/main/<file>.csv`.
 

@@ -1,65 +1,65 @@
 periode,instansi_id,instansi,aplikasi_id,nama_aplikasi,aplikasi_bagi_pakai_tersedia,instansi_ditargetkan,dimanfaatkan
-2026-10,INS01,Instansi Simulasi A,APP001,Aplikasi Contoh 001,Ya,Ya,Ya
-2026-10,INS01,Instansi Simulasi A,APP006,Aplikasi Contoh 006,Ya,Ya,Ya
-2026-10,INS01,Instansi Simulasi A,APP011,Aplikasi Contoh 011,Ya,Ya,Tidak
-2026-10,INS01,Instansi Simulasi A,APP016,Aplikasi Contoh 016,Ya,Ya,Tidak
-2026-10,INS01,Instansi Simulasi A,APP021,Aplikasi Contoh 021,Ya,Ya,Ya
-2026-10,INS01,Instansi Simulasi A,APP026,Aplikasi Contoh 026,Ya,Ya,Ya
-2026-10,INS01,Instansi Simulasi A,APP031,Aplikasi Contoh 031,Ya,Ya,Ya
-2026-10,INS01,Instansi Simulasi A,APP036,Aplikasi Contoh 036,Ya,Ya,Tidak
-2026-10,INS02,Instansi Simulasi B,APP001,Aplikasi Contoh 001,Ya,Ya,Tidak
-2026-10,INS02,Instansi Simulasi B,APP006,Aplikasi Contoh 006,Ya,Ya,Ya
-2026-10,INS02,Instansi Simulasi B,APP011,Aplikasi Contoh 011,Ya,Ya,Ya
-2026-10,INS02,Instansi Simulasi B,APP016,Aplikasi Contoh 016,Ya,Ya,Ya
-2026-10,INS02,Instansi Simulasi B,APP021,Aplikasi Contoh 021,Ya,Ya,Ya
-2026-10,INS02,Instansi Simulasi B,APP026,Aplikasi Contoh 026,Ya,Ya,Tidak
-2026-10,INS02,Instansi Simulasi B,APP031,Aplikasi Contoh 031,Ya,Ya,Tidak
-2026-10,INS02,Instansi Simulasi B,APP036,Aplikasi Contoh 036,Ya,Ya,Ya
-2026-10,INS03,Instansi Simulasi C,APP001,Aplikasi Contoh 001,Ya,Ya,Ya
-2026-10,INS03,Instansi Simulasi C,APP006,Aplikasi Contoh 006,Ya,Ya,Ya
-2026-10,INS03,Instansi Simulasi C,APP011,Aplikasi Contoh 011,Ya,Ya,Ya
-2026-10,INS03,Instansi Simulasi C,APP016,Aplikasi Contoh 016,Ya,Ya,Tidak
-2026-10,INS03,Instansi Simulasi C,APP021,Aplikasi Contoh 021,Ya,Ya,Tidak
-2026-10,INS03,Instansi Simulasi C,APP026,Aplikasi Contoh 026,Ya,Ya,Ya
-2026-10,INS03,Instansi Simulasi C,APP031,Aplikasi Contoh 031,Ya,Ya,Ya
-2026-10,INS03,Instansi Simulasi C,APP036,Aplikasi Contoh 036,Ya,Ya,Ya
-2026-10,INS04,Instansi Simulasi D,APP001,Aplikasi Contoh 001,Ya,Ya,Ya
-2026-10,INS04,Instansi Simulasi D,APP006,Aplikasi Contoh 006,Ya,Ya,Tidak
-2026-10,INS04,Instansi Simulasi D,APP011,Aplikasi Contoh 011,Ya,Ya,Tidak
-2026-10,INS04,Instansi Simulasi D,APP016,Aplikasi Contoh 016,Ya,Ya,Ya
-2026-10,INS04,Instansi Simulasi D,APP021,Aplikasi Contoh 021,Ya,Ya,Ya
-2026-10,INS04,Instansi Simulasi D,APP026,Aplikasi Contoh 026,Ya,Ya,Ya
-2026-10,INS04,Instansi Simulasi D,APP031,Aplikasi Contoh 031,Ya,Ya,Tidak
-2026-10,INS04,Instansi Simulasi D,APP036,Aplikasi Contoh 036,Ya,Ya,Tidak
-2026-10,INS05,Instansi Simulasi E,APP001,Aplikasi Contoh 001,Ya,Ya,Tidak
-2026-10,INS05,Instansi Simulasi E,APP006,Aplikasi Contoh 006,Ya,Ya,Ya
-2026-10,INS05,Instansi Simulasi E,APP011,Aplikasi Contoh 011,Ya,Ya,Ya
-2026-10,INS05,Instansi Simulasi E,APP016,Aplikasi Contoh 016,Ya,Ya,Ya
-2026-10,INS05,Instansi Simulasi E,APP021,Aplikasi Contoh 021,Ya,Ya,Ya
-2026-10,INS05,Instansi Simulasi E,APP026,Aplikasi Contoh 026,Ya,Ya,Tidak
-2026-10,INS05,Instansi Simulasi E,APP031,Aplikasi Contoh 031,Ya,Ya,Ya
-2026-10,INS05,Instansi Simulasi E,APP036,Aplikasi Contoh 036,Ya,Ya,Ya
-2026-10,INS06,Instansi Simulasi F,APP001,Aplikasi Contoh 001,Ya,Ya,Ya
-2026-10,INS06,Instansi Simulasi F,APP006,Aplikasi Contoh 006,Ya,Ya,Ya
-2026-10,INS06,Instansi Simulasi F,APP011,Aplikasi Contoh 011,Ya,Ya,Tidak
-2026-10,INS06,Instansi Simulasi F,APP016,Aplikasi Contoh 016,Ya,Ya,Tidak
-2026-10,INS06,Instansi Simulasi F,APP021,Aplikasi Contoh 021,Ya,Ya,Ya
-2026-10,INS06,Instansi Simulasi F,APP026,Aplikasi Contoh 026,Ya,Ya,Ya
-2026-10,INS06,Instansi Simulasi F,APP031,Aplikasi Contoh 031,Ya,Ya,Ya
-2026-10,INS06,Instansi Simulasi F,APP036,Aplikasi Contoh 036,Ya,Ya,Tidak
-2026-10,INS07,Instansi Simulasi G,APP001,Aplikasi Contoh 001,Ya,Ya,Tidak
-2026-10,INS07,Instansi Simulasi G,APP006,Aplikasi Contoh 006,Ya,Ya,Tidak
-2026-10,INS07,Instansi Simulasi G,APP011,Aplikasi Contoh 011,Ya,Ya,Ya
-2026-10,INS07,Instansi Simulasi G,APP016,Aplikasi Contoh 016,Ya,Ya,Ya
-2026-10,INS07,Instansi Simulasi G,APP021,Aplikasi Contoh 021,Ya,Ya,Ya
-2026-10,INS07,Instansi Simulasi G,APP026,Aplikasi Contoh 026,Ya,Ya,Tidak
-2026-10,INS07,Instansi Simulasi G,APP031,Aplikasi Contoh 031,Ya,Ya,Ya
-2026-10,INS07,Instansi Simulasi G,APP036,Aplikasi Contoh 036,Ya,Ya,Ya
-2026-10,INS08,Instansi Simulasi H,APP001,Aplikasi Contoh 001,Ya,Ya,Ya
-2026-10,INS08,Instansi Simulasi H,APP006,Aplikasi Contoh 006,Ya,Ya,Ya
-2026-10,INS08,Instansi Simulasi H,APP011,Aplikasi Contoh 011,Ya,Ya,Ya
-2026-10,INS08,Instansi Simulasi H,APP016,Aplikasi Contoh 016,Ya,Ya,Tidak
-2026-10,INS08,Instansi Simulasi H,APP021,Aplikasi Contoh 021,Ya,Ya,Tidak
-2026-10,INS08,Instansi Simulasi H,APP026,Aplikasi Contoh 026,Ya,Ya,Ya
-2026-10,INS08,Instansi Simulasi H,APP031,Aplikasi Contoh 031,Ya,Ya,Ya
-2026-10,INS08,Instansi Simulasi H,APP036,Aplikasi Contoh 036,Ya,Ya,Ya
+2026-10,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP001,Aplikasi Contoh 001,Ya,Ya,Ya
+2026-10,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP006,Aplikasi Contoh 006,Ya,Ya,Ya
+2026-10,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP011,Aplikasi Contoh 011,Ya,Ya,Tidak
+2026-10,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP016,Aplikasi Contoh 016,Ya,Ya,Tidak
+2026-10,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP021,Aplikasi Contoh 021,Ya,Ya,Ya
+2026-10,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP026,Aplikasi Contoh 026,Ya,Ya,Ya
+2026-10,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP031,Aplikasi Contoh 031,Ya,Ya,Ya
+2026-10,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP036,Aplikasi Contoh 036,Ya,Ya,Tidak
+2026-10,INS02,Kementerian Komunikasi dan Digital,APP001,Aplikasi Contoh 001,Ya,Ya,Tidak
+2026-10,INS02,Kementerian Komunikasi dan Digital,APP006,Aplikasi Contoh 006,Ya,Ya,Ya
+2026-10,INS02,Kementerian Komunikasi dan Digital,APP011,Aplikasi Contoh 011,Ya,Ya,Ya
+2026-10,INS02,Kementerian Komunikasi dan Digital,APP016,Aplikasi Contoh 016,Ya,Ya,Ya
+2026-10,INS02,Kementerian Komunikasi dan Digital,APP021,Aplikasi Contoh 021,Ya,Ya,Ya
+2026-10,INS02,Kementerian Komunikasi dan Digital,APP026,Aplikasi Contoh 026,Ya,Ya,Tidak
+2026-10,INS02,Kementerian Komunikasi dan Digital,APP031,Aplikasi Contoh 031,Ya,Ya,Tidak
+2026-10,INS02,Kementerian Komunikasi dan Digital,APP036,Aplikasi Contoh 036,Ya,Ya,Ya
+2026-10,INS03,Kementerian Dalam Negeri,APP001,Aplikasi Contoh 001,Ya,Ya,Ya
+2026-10,INS03,Kementerian Dalam Negeri,APP006,Aplikasi Contoh 006,Ya,Ya,Ya
+2026-10,INS03,Kementerian Dalam Negeri,APP011,Aplikasi Contoh 011,Ya,Ya,Ya
+2026-10,INS03,Kementerian Dalam Negeri,APP016,Aplikasi Contoh 016,Ya,Ya,Tidak
+2026-10,INS03,Kementerian Dalam Negeri,APP021,Aplikasi Contoh 021,Ya,Ya,Tidak
+2026-10,INS03,Kementerian Dalam Negeri,APP026,Aplikasi Contoh 026,Ya,Ya,Ya
+2026-10,INS03,Kementerian Dalam Negeri,APP031,Aplikasi Contoh 031,Ya,Ya,Ya
+2026-10,INS03,Kementerian Dalam Negeri,APP036,Aplikasi Contoh 036,Ya,Ya,Ya
+2026-10,INS04,Kementerian Keuangan,APP001,Aplikasi Contoh 001,Ya,Ya,Ya
+2026-10,INS04,Kementerian Keuangan,APP006,Aplikasi Contoh 006,Ya,Ya,Tidak
+2026-10,INS04,Kementerian Keuangan,APP011,Aplikasi Contoh 011,Ya,Ya,Tidak
+2026-10,INS04,Kementerian Keuangan,APP016,Aplikasi Contoh 016,Ya,Ya,Ya
+2026-10,INS04,Kementerian Keuangan,APP021,Aplikasi Contoh 021,Ya,Ya,Ya
+2026-10,INS04,Kementerian Keuangan,APP026,Aplikasi Contoh 026,Ya,Ya,Ya
+2026-10,INS04,Kementerian Keuangan,APP031,Aplikasi Contoh 031,Ya,Ya,Tidak
+2026-10,INS04,Kementerian Keuangan,APP036,Aplikasi Contoh 036,Ya,Ya,Tidak
+2026-10,INS05,Kementerian Kesehatan,APP001,Aplikasi Contoh 001,Ya,Ya,Tidak
+2026-10,INS05,Kementerian Kesehatan,APP006,Aplikasi Contoh 006,Ya,Ya,Ya
+2026-10,INS05,Kementerian Kesehatan,APP011,Aplikasi Contoh 011,Ya,Ya,Ya
+2026-10,INS05,Kementerian Kesehatan,APP016,Aplikasi Contoh 016,Ya,Ya,Ya
+2026-10,INS05,Kementerian Kesehatan,APP021,Aplikasi Contoh 021,Ya,Ya,Ya
+2026-10,INS05,Kementerian Kesehatan,APP026,Aplikasi Contoh 026,Ya,Ya,Tidak
+2026-10,INS05,Kementerian Kesehatan,APP031,Aplikasi Contoh 031,Ya,Ya,Ya
+2026-10,INS05,Kementerian Kesehatan,APP036,Aplikasi Contoh 036,Ya,Ya,Ya
+2026-10,INS06,Badan Kepegawaian Negara,APP001,Aplikasi Contoh 001,Ya,Ya,Ya
+2026-10,INS06,Badan Kepegawaian Negara,APP006,Aplikasi Contoh 006,Ya,Ya,Ya
+2026-10,INS06,Badan Kepegawaian Negara,APP011,Aplikasi Contoh 011,Ya,Ya,Tidak
+2026-10,INS06,Badan Kepegawaian Negara,APP016,Aplikasi Contoh 016,Ya,Ya,Tidak
+2026-10,INS06,Badan Kepegawaian Negara,APP021,Aplikasi Contoh 021,Ya,Ya,Ya
+2026-10,INS06,Badan Kepegawaian Negara,APP026,Aplikasi Contoh 026,Ya,Ya,Ya
+2026-10,INS06,Badan Kepegawaian Negara,APP031,Aplikasi Contoh 031,Ya,Ya,Ya
+2026-10,INS06,Badan Kepegawaian Negara,APP036,Aplikasi Contoh 036,Ya,Ya,Tidak
+2026-10,INS07,Badan Pusat Statistik,APP001,Aplikasi Contoh 001,Ya,Ya,Tidak
+2026-10,INS07,Badan Pusat Statistik,APP006,Aplikasi Contoh 006,Ya,Ya,Tidak
+2026-10,INS07,Badan Pusat Statistik,APP011,Aplikasi Contoh 011,Ya,Ya,Ya
+2026-10,INS07,Badan Pusat Statistik,APP016,Aplikasi Contoh 016,Ya,Ya,Ya
+2026-10,INS07,Badan Pusat Statistik,APP021,Aplikasi Contoh 021,Ya,Ya,Ya
+2026-10,INS07,Badan Pusat Statistik,APP026,Aplikasi Contoh 026,Ya,Ya,Tidak
+2026-10,INS07,Badan Pusat Statistik,APP031,Aplikasi Contoh 031,Ya,Ya,Ya
+2026-10,INS07,Badan Pusat Statistik,APP036,Aplikasi Contoh 036,Ya,Ya,Ya
+2026-10,INS08,Arsip Nasional Republik Indonesia,APP001,Aplikasi Contoh 001,Ya,Ya,Ya
+2026-10,INS08,Arsip Nasional Republik Indonesia,APP006,Aplikasi Contoh 006,Ya,Ya,Ya
+2026-10,INS08,Arsip Nasional Republik Indonesia,APP011,Aplikasi Contoh 011,Ya,Ya,Ya
+2026-10,INS08,Arsip Nasional Republik Indonesia,APP016,Aplikasi Contoh 016,Ya,Ya,Tidak
+2026-10,INS08,Arsip Nasional Republik Indonesia,APP021,Aplikasi Contoh 021,Ya,Ya,Tidak
+2026-10,INS08,Arsip Nasional Republik Indonesia,APP026,Aplikasi Contoh 026,Ya,Ya,Ya
+2026-10,INS08,Arsip Nasional Republik Indonesia,APP031,Aplikasi Contoh 031,Ya,Ya,Ya
+2026-10,INS08,Arsip Nasional Republik Indonesia,APP036,Aplikasi Contoh 036,Ya,Ya,Ya

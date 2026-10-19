@@ -1,39 +1,56 @@
 # TASKS — Prototype Dashboard SIAP Digital (ARIS MashZone)
 
-Status per 2026-10-19. Seluruh data adalah **DATA SIMULASI / PROTOTYPE**.
+Status per 2026-10-19 (pekerjaan di ARIS **dihentikan sementara atas permintaan user**). Seluruh data adalah **DATA SIMULASI / PROTOTYPE**.
 
-## Phase A — Source Inspection & Data Validation — DONE
-- [x] Folder `D:\NUVISION\kemenpan\dashboard` dapat dibaca (PDF, README, 9 CSV, ZIP)
-- [x] PDF B-513/DJTPD.4/AI.01.01/08/2026 dibaca; Bagian 3 (9 kebutuhan data analitik) dicocokkan ke KPI-01..09
-- [x] Header, jumlah baris, delimiter (koma), encoding (UTF-8), nilai kosong, duplikasi diperiksa — tidak ada duplikasi ID
-- [x] Relasi antar-dataset diperiksa (aplikasi_id, instansi_id) — tidak ada referensi yatim / lintas instansi
-- [x] 9 KPI dihitung ulang dari CSV detail (`scratchpad/recompute.py`) — 06 dan 07 cocok 100% (0 FAIL)
-- [x] Tidak ada perbaikan CSV yang diperlukan; file asli tidak diubah
+| Fase | Status |
+|---|---|
+| A — Source Inspection & Data Validation | DONE |
+| B — ARIS UI Inspection & Data Source Integration | DONE (via raw GitHub) |
+| C — Data Feed Implementation | DONE |
+| D — Dashboard Implementation | PARTIAL (Tab 1 & 2 berisi; Tab 3 kosong) |
+| E — Visual Design | PARTIAL (layout Tab 1 & banner simulasi belum) |
+| F — Functional Testing & Validation | PARTIAL (Tab 1 & 2 PASS; view mode & Tab 3 belum diuji) |
+| Deliverables dokumen | DONE untuk kondisi saat ini |
 
-## Phase B — ARIS UI Inspection & Data Source Integration — DONE
-- [x] ARIS Document Storage: tab "Documents" kosong (label i18n rusak `absDataProviderComponent.componentInfo.DBI`), panel "ARIS documents" di Data Feed Editor loading tanpa akhir + JS exception → **tidak dapat dipakai**
-- [x] URL alias tersedia: `URL SPBE Arsitektur` / `URL SPBE` → server ARIS sendiri; uji Calculate: `JBPMZCE0389 ... Read timed out`
-- [x] Sumber yang disetujui user: folder Google Drive bersama
-  - `drive.usercontent.google.com/download?...` → `JBPMZCE0350 ... Status 500` (GAGAL)
-  - `drive.google.com/uc?export=download&id=<ID>` → **BERHASIL** (kolom & baris terbaca)
-- [ ] `07_kpi_per_instansi.csv` **tidak ada** di folder Drive → nilai per instansi dihitung dari feed detail
-- [!] **BLOCKER (13:40 WIB)**: setelah ±12 unduhan berhasil, Google Drive membalas `403 Forbidden` untuk semua file
-  dari IP server ARIS (`drive.google.com/uc` dan `docs.google.com/uc`). Drive membatasi unduhan otomatis →
-  tidak andal sebagai sumber data feed. Menunggu keputusan user soal hosting CSV alternatif.
+## Phase A — DONE
+- [x] Folder, PDF B-513, README, 9 CSV dibaca
+- [x] Kualitas data diperiksa (baris, encoding, delimiter, kosong, duplikasi, relasi) — tidak ada isu
+- [x] 9 KPI dihitung ulang — 06 (9/9) dan 07 (72/72) cocok
+- [x] Tidak ada perbaikan CSV yang diperlukan
+- [x] Label instansi diganti ke 8 Instansi Pusat riil (permintaan user); nilai & ID tetap; validasi ulang PASS
+- [ ] Push CSV baru ke GitHub agar ARIS menampilkan nama baru (menunggu persetujuan user)
 
-## Phase C — Data Feed Implementation — IN PROGRESS
-- [x] DEMO_DF_SIAP_KPI_Ringkasan (06)
-- [x] DEMO_DF_SIAP_Aplikasi (01)
-- [x] DEMO_DF_SIAP_Layanan (02)
-- [x] DEMO_DF_SIAP_BagiPakai (03)
-- [x] DEMO_DF_SIAP_Repositori (04)
-- [x] DEMO_DF_SIAP_Audit (05)
-- [ ] Kolom numerik untuk widget (widget hanya menerima Measure numerik): `jumlah`=1 dan flag 100/0
-      (AVERAGE flag = persentase) via Insert column + Conditional replace — BLOCKED oleh 403 Drive
-      (feed Audit: Insert column sudah ditambahkan di editor, BELUM disimpan)
+## Phase B — DONE
+- [x] ARIS Document Storage — tidak berfungsi di instalasi ini (tab kosong, i18n rusak, JS exception)
+- [x] URL alias `URL SPBE Arsitektur` — `Read timed out`
+- [x] Google Drive — berhasil sementara, lalu `403 Forbidden` setelah ±12 unduhan
+- [x] **Raw GitHub** `bintangkurniawanpp/panrb-dashboard` (disetujui user) — berhasil; 9 CSV identik dengan lokal
 
-## Phase D/E — Dashboard Implementation & Visual Design — PARTIAL
-- [x] Dashboard "DEMO — SIAP Digital | Dashboard Arsitektur Aplikasi Pemerintah Digital" dibuat & disimpan
-- [ ] Pie KPI-01 (feed Aplikasi, partisi `menerapkan_standar`) — menunggu kolom numerik `jumlah`
-## Phase F — Validation — PENDING
-## Deliverables — PENDING
+## Phase C — DONE
+- [x] DEMO_DF_SIAP_Aplikasi — `jumlah`, `pct_standar`, `pct_portal`, `pct_penghubung`, `pct_layak`
+- [x] DEMO_DF_SIAP_Layanan — `jumlah`, `pct_melalui_aplikasi`
+- [x] DEMO_DF_SIAP_BagiPakai — `jumlah`, `pct_dimanfaatkan`
+- [x] DEMO_DF_SIAP_Repositori — `jumlah`, `pct_terbuka`, `pct_tertutup`
+- [x] DEMO_DF_SIAP_Audit — `jumlah`, `pct_audit_memenuhi`
+- [x] DEMO_DF_SIAP_KPI_Ringkasan, DEMO_DF_SIAP_KPI_Instansi (pembanding)
+
+## Phase D/E — PARTIAL
+- [x] Dashboard "DEMO — SIAP Digital | Dashboard Arsitektur Aplikasi Pemerintah Digital" tersimpan
+- [x] 3 tab dinamai; "Show tabs as" = Tabs
+- [x] Tab 1: Pie KPI-01 + 8 tile KPI-02…09 (filter penyebut untuk KPI-05/06/08/09)
+- [x] Tab 2: bar per instansi KPI-02, KPI-03, KPI-07
+- [ ] Tab 2: bar per instansi KPI-04 — dikonfigurasi, **belum disimpan**
+- [ ] Tab 2: pie koneksi Portal Ya/Tidak
+- [ ] Tab 3: bar per instansi KPI-05, 06, 08, 09 + pie jenis repositori aktif
+- [ ] Rapikan layout Tab 1 (celah, tinggi tile, urutan)
+- [ ] Banner "DATA SIMULASI / PROTOTYPE"
+- [ ] Tampilkan cakupan penilaian KPI-08 (87,5%) dan cakupan audit KPI-09 (80,0%)
+
+## Phase F — PARTIAL
+- [x] 9 KPI agregat PASS; 32 nilai per instansi Tab 2 PASS
+- [x] Persistensi: simpan + reload (parsial) PASS
+- [ ] Buka ulang di mode view, uji navigasi tab, screenshot final
+
+## Deliverables
+- [x] TASKS.md, KPI_DEFINITIONS.md, DATAFEED_CONFIGURATION.md, VALIDATION_REPORT.md, IMPLEMENTATION_LOG.md
+- [x] screenshots/ (4 file, mode edit)

@@ -1,41 +1,41 @@
 periode,aplikasi_id,nama_aplikasi,instansi_id,instansi,jenis_aplikasi,menerapkan_standar,terhubung_portal,memanfaatkan_sistem_penghubung,status_kelaikan,bagi_pakai_nasional
-2026-10,APP001,Aplikasi Contoh 001,INS01,Instansi Simulasi A,Bagi Pakai Nasional,Memenuhi,Ya,Ya,Layak,Ya
-2026-10,APP002,Aplikasi Contoh 002,INS01,Instansi Simulasi A,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
-2026-10,APP003,Aplikasi Contoh 003,INS01,Instansi Simulasi A,Instansional,Memenuhi,Ya,Tidak,Layak,Tidak
-2026-10,APP004,Aplikasi Contoh 004,INS01,Instansi Simulasi A,Instansional,Memenuhi,Tidak,Ya,Layak,Tidak
-2026-10,APP005,Aplikasi Contoh 005,INS01,Instansi Simulasi A,Instansional,Memenuhi,Ya,Ya,Tidak Layak,Tidak
-2026-10,APP006,Aplikasi Contoh 006,INS02,Instansi Simulasi B,Bagi Pakai Nasional,Belum Memenuhi,Ya,Tidak,Layak,Ya
-2026-10,APP007,Aplikasi Contoh 007,INS02,Instansi Simulasi B,Instansional,Belum Memenuhi,Ya,Ya,Layak,Tidak
-2026-10,APP008,Aplikasi Contoh 008,INS02,Instansi Simulasi B,Instansional,Memenuhi,Tidak,Ya,Belum Dinilai,Tidak
-2026-10,APP009,Aplikasi Contoh 009,INS02,Instansi Simulasi B,Instansional,Memenuhi,Ya,Tidak,Layak,Tidak
-2026-10,APP010,Aplikasi Contoh 010,INS02,Instansi Simulasi B,Instansional,Memenuhi,Ya,Ya,Tidak Layak,Tidak
-2026-10,APP011,Aplikasi Contoh 011,INS03,Instansi Simulasi C,Bagi Pakai Nasional,Memenuhi,Ya,Ya,Layak,Ya
-2026-10,APP012,Aplikasi Contoh 012,INS03,Instansi Simulasi C,Instansional,Belum Memenuhi,Tidak,Tidak,Layak,Tidak
-2026-10,APP013,Aplikasi Contoh 013,INS03,Instansi Simulasi C,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
-2026-10,APP014,Aplikasi Contoh 014,INS03,Instansi Simulasi C,Instansional,Belum Memenuhi,Ya,Ya,Layak,Tidak
-2026-10,APP015,Aplikasi Contoh 015,INS03,Instansi Simulasi C,Instansional,Memenuhi,Ya,Tidak,Tidak Layak,Tidak
-2026-10,APP016,Aplikasi Contoh 016,INS04,Instansi Simulasi D,Bagi Pakai Nasional,Memenuhi,Tidak,Ya,Belum Dinilai,Ya
-2026-10,APP017,Aplikasi Contoh 017,INS04,Instansi Simulasi D,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
-2026-10,APP018,Aplikasi Contoh 018,INS04,Instansi Simulasi D,Instansional,Belum Memenuhi,Ya,Tidak,Layak,Tidak
-2026-10,APP019,Aplikasi Contoh 019,INS04,Instansi Simulasi D,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
-2026-10,APP020,Aplikasi Contoh 020,INS04,Instansi Simulasi D,Instansional,Memenuhi,Tidak,Ya,Tidak Layak,Tidak
-2026-10,APP021,Aplikasi Contoh 021,INS05,Instansi Simulasi E,Bagi Pakai Nasional,Belum Memenuhi,Ya,Tidak,Layak,Ya
-2026-10,APP022,Aplikasi Contoh 022,INS05,Instansi Simulasi E,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
-2026-10,APP023,Aplikasi Contoh 023,INS05,Instansi Simulasi E,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
-2026-10,APP024,Aplikasi Contoh 024,INS05,Instansi Simulasi E,Instansional,Belum Memenuhi,Tidak,Tidak,Belum Dinilai,Tidak
-2026-10,APP025,Aplikasi Contoh 025,INS05,Instansi Simulasi E,Instansional,Memenuhi,Ya,Ya,Tidak Layak,Tidak
-2026-10,APP026,Aplikasi Contoh 026,INS06,Instansi Simulasi F,Bagi Pakai Nasional,Memenuhi,Ya,Ya,Layak,Ya
-2026-10,APP027,Aplikasi Contoh 027,INS06,Instansi Simulasi F,Instansional,Memenuhi,Ya,Tidak,Layak,Tidak
-2026-10,APP028,Aplikasi Contoh 028,INS06,Instansi Simulasi F,Instansional,Belum Memenuhi,Tidak,Ya,Layak,Tidak
-2026-10,APP029,Aplikasi Contoh 029,INS06,Instansi Simulasi F,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
-2026-10,APP030,Aplikasi Contoh 030,INS06,Instansi Simulasi F,Instansional,Belum Memenuhi,Ya,Tidak,Tidak Layak,Tidak
-2026-10,APP031,Aplikasi Contoh 031,INS07,Instansi Simulasi G,Bagi Pakai Nasional,Memenuhi,Ya,Ya,Layak,Ya
-2026-10,APP032,Aplikasi Contoh 032,INS07,Instansi Simulasi G,Instansional,Memenuhi,Tidak,Ya,Belum Dinilai,Tidak
-2026-10,APP033,Aplikasi Contoh 033,INS07,Instansi Simulasi G,Instansional,Memenuhi,Ya,Tidak,Layak,Tidak
-2026-10,APP034,Aplikasi Contoh 034,INS07,Instansi Simulasi G,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
-2026-10,APP035,Aplikasi Contoh 035,INS07,Instansi Simulasi G,Instansional,Belum Memenuhi,Ya,Ya,Tidak Layak,Tidak
-2026-10,APP036,Aplikasi Contoh 036,INS08,Instansi Simulasi H,Bagi Pakai Nasional,Belum Memenuhi,Tidak,Tidak,Layak,Ya
-2026-10,APP037,Aplikasi Contoh 037,INS08,Instansi Simulasi H,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
-2026-10,APP038,Aplikasi Contoh 038,INS08,Instansi Simulasi H,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
-2026-10,APP039,Aplikasi Contoh 039,INS08,Instansi Simulasi H,Instansional,Memenuhi,Ya,Tidak,Layak,Tidak
-2026-10,APP040,Aplikasi Contoh 040,INS08,Instansi Simulasi H,Instansional,Memenuhi,Tidak,Ya,Belum Dinilai,Tidak
+2026-10,APP001,Aplikasi Contoh 001,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Bagi Pakai Nasional,Memenuhi,Ya,Ya,Layak,Ya
+2026-10,APP002,Aplikasi Contoh 002,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
+2026-10,APP003,Aplikasi Contoh 003,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Instansional,Memenuhi,Ya,Tidak,Layak,Tidak
+2026-10,APP004,Aplikasi Contoh 004,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Instansional,Memenuhi,Tidak,Ya,Layak,Tidak
+2026-10,APP005,Aplikasi Contoh 005,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Instansional,Memenuhi,Ya,Ya,Tidak Layak,Tidak
+2026-10,APP006,Aplikasi Contoh 006,INS02,Kementerian Komunikasi dan Digital,Bagi Pakai Nasional,Belum Memenuhi,Ya,Tidak,Layak,Ya
+2026-10,APP007,Aplikasi Contoh 007,INS02,Kementerian Komunikasi dan Digital,Instansional,Belum Memenuhi,Ya,Ya,Layak,Tidak
+2026-10,APP008,Aplikasi Contoh 008,INS02,Kementerian Komunikasi dan Digital,Instansional,Memenuhi,Tidak,Ya,Belum Dinilai,Tidak
+2026-10,APP009,Aplikasi Contoh 009,INS02,Kementerian Komunikasi dan Digital,Instansional,Memenuhi,Ya,Tidak,Layak,Tidak
+2026-10,APP010,Aplikasi Contoh 010,INS02,Kementerian Komunikasi dan Digital,Instansional,Memenuhi,Ya,Ya,Tidak Layak,Tidak
+2026-10,APP011,Aplikasi Contoh 011,INS03,Kementerian Dalam Negeri,Bagi Pakai Nasional,Memenuhi,Ya,Ya,Layak,Ya
+2026-10,APP012,Aplikasi Contoh 012,INS03,Kementerian Dalam Negeri,Instansional,Belum Memenuhi,Tidak,Tidak,Layak,Tidak
+2026-10,APP013,Aplikasi Contoh 013,INS03,Kementerian Dalam Negeri,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
+2026-10,APP014,Aplikasi Contoh 014,INS03,Kementerian Dalam Negeri,Instansional,Belum Memenuhi,Ya,Ya,Layak,Tidak
+2026-10,APP015,Aplikasi Contoh 015,INS03,Kementerian Dalam Negeri,Instansional,Memenuhi,Ya,Tidak,Tidak Layak,Tidak
+2026-10,APP016,Aplikasi Contoh 016,INS04,Kementerian Keuangan,Bagi Pakai Nasional,Memenuhi,Tidak,Ya,Belum Dinilai,Ya
+2026-10,APP017,Aplikasi Contoh 017,INS04,Kementerian Keuangan,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
+2026-10,APP018,Aplikasi Contoh 018,INS04,Kementerian Keuangan,Instansional,Belum Memenuhi,Ya,Tidak,Layak,Tidak
+2026-10,APP019,Aplikasi Contoh 019,INS04,Kementerian Keuangan,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
+2026-10,APP020,Aplikasi Contoh 020,INS04,Kementerian Keuangan,Instansional,Memenuhi,Tidak,Ya,Tidak Layak,Tidak
+2026-10,APP021,Aplikasi Contoh 021,INS05,Kementerian Kesehatan,Bagi Pakai Nasional,Belum Memenuhi,Ya,Tidak,Layak,Ya
+2026-10,APP022,Aplikasi Contoh 022,INS05,Kementerian Kesehatan,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
+2026-10,APP023,Aplikasi Contoh 023,INS05,Kementerian Kesehatan,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
+2026-10,APP024,Aplikasi Contoh 024,INS05,Kementerian Kesehatan,Instansional,Belum Memenuhi,Tidak,Tidak,Belum Dinilai,Tidak
+2026-10,APP025,Aplikasi Contoh 025,INS05,Kementerian Kesehatan,Instansional,Memenuhi,Ya,Ya,Tidak Layak,Tidak
+2026-10,APP026,Aplikasi Contoh 026,INS06,Badan Kepegawaian Negara,Bagi Pakai Nasional,Memenuhi,Ya,Ya,Layak,Ya
+2026-10,APP027,Aplikasi Contoh 027,INS06,Badan Kepegawaian Negara,Instansional,Memenuhi,Ya,Tidak,Layak,Tidak
+2026-10,APP028,Aplikasi Contoh 028,INS06,Badan Kepegawaian Negara,Instansional,Belum Memenuhi,Tidak,Ya,Layak,Tidak
+2026-10,APP029,Aplikasi Contoh 029,INS06,Badan Kepegawaian Negara,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
+2026-10,APP030,Aplikasi Contoh 030,INS06,Badan Kepegawaian Negara,Instansional,Belum Memenuhi,Ya,Tidak,Tidak Layak,Tidak
+2026-10,APP031,Aplikasi Contoh 031,INS07,Badan Pusat Statistik,Bagi Pakai Nasional,Memenuhi,Ya,Ya,Layak,Ya
+2026-10,APP032,Aplikasi Contoh 032,INS07,Badan Pusat Statistik,Instansional,Memenuhi,Tidak,Ya,Belum Dinilai,Tidak
+2026-10,APP033,Aplikasi Contoh 033,INS07,Badan Pusat Statistik,Instansional,Memenuhi,Ya,Tidak,Layak,Tidak
+2026-10,APP034,Aplikasi Contoh 034,INS07,Badan Pusat Statistik,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
+2026-10,APP035,Aplikasi Contoh 035,INS07,Badan Pusat Statistik,Instansional,Belum Memenuhi,Ya,Ya,Tidak Layak,Tidak
+2026-10,APP036,Aplikasi Contoh 036,INS08,Arsip Nasional Republik Indonesia,Bagi Pakai Nasional,Belum Memenuhi,Tidak,Tidak,Layak,Ya
+2026-10,APP037,Aplikasi Contoh 037,INS08,Arsip Nasional Republik Indonesia,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
+2026-10,APP038,Aplikasi Contoh 038,INS08,Arsip Nasional Republik Indonesia,Instansional,Memenuhi,Ya,Ya,Layak,Tidak
+2026-10,APP039,Aplikasi Contoh 039,INS08,Arsip Nasional Republik Indonesia,Instansional,Memenuhi,Ya,Tidak,Layak,Tidak
+2026-10,APP040,Aplikasi Contoh 040,INS08,Arsip Nasional Republik Indonesia,Instansional,Memenuhi,Tidak,Ya,Belum Dinilai,Tidak

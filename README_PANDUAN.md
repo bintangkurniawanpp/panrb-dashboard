@@ -2,7 +2,18 @@
 
 Acuan: Surat Komdigi No. B-513/DJTPD.4/AI.01.01/08/2026, Lampiran, Bagian 3 (hal. 6), memuat 9 kebutuhan data analitik dashboard SIAP Digital. Surat menyebutnya sebagai usulan awal, bukan keputusan penetapan indikator yang final.
 
-**SELURUH NAMA INSTANSI, APLIKASI, NILAI, STATUS, DAN PERSENTASE DALAM BERKAS INI ADALAH DATA SIMULASI.** Data ini tidak menyatakan kondisi instansi atau aplikasi pemerintah yang sebenarnya.
+**SELURUH NAMA APLIKASI, NILAI, STATUS, DAN PERSENTASE DALAM BERKAS INI ADALAH DATA SIMULASI.** Nama instansi (INS01–INS08) memakai nama Instansi Pusat riil dari `instansi-pusat.xls` **hanya sebagai label**; angka dan status yang dikaitkan dengannya bukan data riil dan tidak menyatakan kondisi instansi atau aplikasi pemerintah yang sebenarnya.
+
+| ID | Instansi |
+|---|---|
+| INS01 | Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi |
+| INS02 | Kementerian Komunikasi dan Digital |
+| INS03 | Kementerian Dalam Negeri |
+| INS04 | Kementerian Keuangan |
+| INS05 | Kementerian Kesehatan |
+| INS06 | Badan Kepegawaian Negara |
+| INS07 | Badan Pusat Statistik |
+| INS08 | Arsip Nasional Republik Indonesia |
 
 ## Langsung uji ARIS
 1. Uji file `06_kpi_ringkasan.csv` pada Data Feed editor untuk KPI umum, atau `07_kpi_per_instansi.csv` untuk bar chart per instansi. Angka telah dipra-hitung untuk penyederhanaan prototype.
@@ -19,7 +30,7 @@ Acuan: Surat Komdigi No. B-513/DJTPD.4/AI.01.01/08/2026, Lampiran, Bagian 3 (hal
 - `03_pemanfaatan_bagi_pakai.csv`: 64 pasangan instansi x aplikasi bersama nasional sebagai target pemanfaatan (KPI 03).
 - `04_repositori.csv`: 48 repositori; jenis kode dan status dipakai untuk layanan (KPI 05,06).
 - `05_audit_aplikasi.csv`: 40 entri audit; status dan hasil (KPI 09).
-- `06_kpi_ringkasan.csv`: 9 baris indikator pada total 8 instansi simulasi; cepat untuk widget Summary/KPI.
+- `06_kpi_ringkasan.csv`: 9 baris indikator pada total 8 instansi (nama riil, nilai simulasi); cepat untuk widget Summary/KPI.
 - `07_kpi_per_instansi.csv`: 72 baris indikator per instansi; cepat untuk widget Bar chart dan filter.
 - `08_pemetaan_widget.csv`: rancangan widget, data feed, filter, Dimension dan Measure per Tab.
 - `09_definisi_indikator.csv`: sembilan teks indikator dari surat beserta rumus dan catatan validasi sebagai asumsi prototype.

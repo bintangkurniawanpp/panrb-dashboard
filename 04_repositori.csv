@@ -1,49 +1,49 @@
 periode,repo_id,nama_repositori,instansi_id,instansi,aplikasi_id,jenis_kode_sumber,digunakan_untuk_layanan_digital
-2026-10,REP001,Repositori Contoh 001,INS01,Instansi Simulasi A,APP001,Tertutup,Ya
-2026-10,REP002,Repositori Contoh 002,INS01,Instansi Simulasi A,APP002,Tertutup,Ya
-2026-10,REP003,Repositori Contoh 003,INS01,Instansi Simulasi A,APP003,Terbuka,Ya
-2026-10,REP004,Repositori Contoh 004,INS01,Instansi Simulasi A,APP004,Tertutup,Ya
-2026-10,REP005,Repositori Contoh 005,INS01,Instansi Simulasi A,APP005,Tertutup,Ya
-2026-10,REP006,Repositori Contoh 006,INS01,Instansi Simulasi A,APP001,Terbuka,Ya
-2026-10,REP007,Repositori Contoh 007,INS02,Instansi Simulasi B,APP006,Tertutup,Tidak
-2026-10,REP008,Repositori Contoh 008,INS02,Instansi Simulasi B,APP007,Tertutup,Ya
-2026-10,REP009,Repositori Contoh 009,INS02,Instansi Simulasi B,APP008,Terbuka,Ya
-2026-10,REP010,Repositori Contoh 010,INS02,Instansi Simulasi B,APP009,Tertutup,Ya
-2026-10,REP011,Repositori Contoh 011,INS02,Instansi Simulasi B,APP010,Belum Diklasifikasi,Ya
-2026-10,REP012,Repositori Contoh 012,INS02,Instansi Simulasi B,APP006,Terbuka,Ya
-2026-10,REP013,Repositori Contoh 013,INS03,Instansi Simulasi C,APP011,Tertutup,Ya
-2026-10,REP014,Repositori Contoh 014,INS03,Instansi Simulasi C,APP012,Tertutup,Tidak
-2026-10,REP015,Repositori Contoh 015,INS03,Instansi Simulasi C,APP013,Terbuka,Ya
-2026-10,REP016,Repositori Contoh 016,INS03,Instansi Simulasi C,APP014,Tertutup,Ya
-2026-10,REP017,Repositori Contoh 017,INS03,Instansi Simulasi C,APP015,Tertutup,Ya
-2026-10,REP018,Repositori Contoh 018,INS03,Instansi Simulasi C,APP011,Terbuka,Ya
-2026-10,REP019,Repositori Contoh 019,INS04,Instansi Simulasi D,APP016,Tertutup,Ya
-2026-10,REP020,Repositori Contoh 020,INS04,Instansi Simulasi D,APP017,Tertutup,Ya
-2026-10,REP021,Repositori Contoh 021,INS04,Instansi Simulasi D,APP018,Terbuka,Tidak
-2026-10,REP022,Repositori Contoh 022,INS04,Instansi Simulasi D,APP019,Belum Diklasifikasi,Ya
-2026-10,REP023,Repositori Contoh 023,INS04,Instansi Simulasi D,APP020,Tertutup,Ya
-2026-10,REP024,Repositori Contoh 024,INS04,Instansi Simulasi D,APP016,Terbuka,Ya
-2026-10,REP025,Repositori Contoh 025,INS05,Instansi Simulasi E,APP021,Tertutup,Ya
-2026-10,REP026,Repositori Contoh 026,INS05,Instansi Simulasi E,APP022,Tertutup,Ya
-2026-10,REP027,Repositori Contoh 027,INS05,Instansi Simulasi E,APP023,Terbuka,Ya
-2026-10,REP028,Repositori Contoh 028,INS05,Instansi Simulasi E,APP024,Tertutup,Tidak
-2026-10,REP029,Repositori Contoh 029,INS05,Instansi Simulasi E,APP025,Tertutup,Ya
-2026-10,REP030,Repositori Contoh 030,INS05,Instansi Simulasi E,APP021,Terbuka,Ya
-2026-10,REP031,Repositori Contoh 031,INS06,Instansi Simulasi F,APP026,Tertutup,Ya
-2026-10,REP032,Repositori Contoh 032,INS06,Instansi Simulasi F,APP027,Tertutup,Ya
-2026-10,REP033,Repositori Contoh 033,INS06,Instansi Simulasi F,APP028,Belum Diklasifikasi,Ya
-2026-10,REP034,Repositori Contoh 034,INS06,Instansi Simulasi F,APP029,Tertutup,Ya
-2026-10,REP035,Repositori Contoh 035,INS06,Instansi Simulasi F,APP030,Tertutup,Tidak
-2026-10,REP036,Repositori Contoh 036,INS06,Instansi Simulasi F,APP026,Terbuka,Ya
-2026-10,REP037,Repositori Contoh 037,INS07,Instansi Simulasi G,APP031,Tertutup,Ya
-2026-10,REP038,Repositori Contoh 038,INS07,Instansi Simulasi G,APP032,Tertutup,Ya
-2026-10,REP039,Repositori Contoh 039,INS07,Instansi Simulasi G,APP033,Terbuka,Ya
-2026-10,REP040,Repositori Contoh 040,INS07,Instansi Simulasi G,APP034,Tertutup,Ya
-2026-10,REP041,Repositori Contoh 041,INS07,Instansi Simulasi G,APP035,Tertutup,Ya
-2026-10,REP042,Repositori Contoh 042,INS07,Instansi Simulasi G,APP031,Terbuka,Tidak
-2026-10,REP043,Repositori Contoh 043,INS08,Instansi Simulasi H,APP036,Tertutup,Ya
-2026-10,REP044,Repositori Contoh 044,INS08,Instansi Simulasi H,APP037,Belum Diklasifikasi,Ya
-2026-10,REP045,Repositori Contoh 045,INS08,Instansi Simulasi H,APP038,Terbuka,Ya
-2026-10,REP046,Repositori Contoh 046,INS08,Instansi Simulasi H,APP039,Tertutup,Ya
-2026-10,REP047,Repositori Contoh 047,INS08,Instansi Simulasi H,APP040,Tertutup,Ya
-2026-10,REP048,Repositori Contoh 048,INS08,Instansi Simulasi H,APP036,Terbuka,Ya
+2026-10,REP001,Repositori Contoh 001,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP001,Tertutup,Ya
+2026-10,REP002,Repositori Contoh 002,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP002,Tertutup,Ya
+2026-10,REP003,Repositori Contoh 003,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP003,Terbuka,Ya
+2026-10,REP004,Repositori Contoh 004,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP004,Tertutup,Ya
+2026-10,REP005,Repositori Contoh 005,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP005,Tertutup,Ya
+2026-10,REP006,Repositori Contoh 006,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,APP001,Terbuka,Ya
+2026-10,REP007,Repositori Contoh 007,INS02,Kementerian Komunikasi dan Digital,APP006,Tertutup,Tidak
+2026-10,REP008,Repositori Contoh 008,INS02,Kementerian Komunikasi dan Digital,APP007,Tertutup,Ya
+2026-10,REP009,Repositori Contoh 009,INS02,Kementerian Komunikasi dan Digital,APP008,Terbuka,Ya
+2026-10,REP010,Repositori Contoh 010,INS02,Kementerian Komunikasi dan Digital,APP009,Tertutup,Ya
+2026-10,REP011,Repositori Contoh 011,INS02,Kementerian Komunikasi dan Digital,APP010,Belum Diklasifikasi,Ya
+2026-10,REP012,Repositori Contoh 012,INS02,Kementerian Komunikasi dan Digital,APP006,Terbuka,Ya
+2026-10,REP013,Repositori Contoh 013,INS03,Kementerian Dalam Negeri,APP011,Tertutup,Ya
+2026-10,REP014,Repositori Contoh 014,INS03,Kementerian Dalam Negeri,APP012,Tertutup,Tidak
+2026-10,REP015,Repositori Contoh 015,INS03,Kementerian Dalam Negeri,APP013,Terbuka,Ya
+2026-10,REP016,Repositori Contoh 016,INS03,Kementerian Dalam Negeri,APP014,Tertutup,Ya
+2026-10,REP017,Repositori Contoh 017,INS03,Kementerian Dalam Negeri,APP015,Tertutup,Ya
+2026-10,REP018,Repositori Contoh 018,INS03,Kementerian Dalam Negeri,APP011,Terbuka,Ya
+2026-10,REP019,Repositori Contoh 019,INS04,Kementerian Keuangan,APP016,Tertutup,Ya
+2026-10,REP020,Repositori Contoh 020,INS04,Kementerian Keuangan,APP017,Tertutup,Ya
+2026-10,REP021,Repositori Contoh 021,INS04,Kementerian Keuangan,APP018,Terbuka,Tidak
+2026-10,REP022,Repositori Contoh 022,INS04,Kementerian Keuangan,APP019,Belum Diklasifikasi,Ya
+2026-10,REP023,Repositori Contoh 023,INS04,Kementerian Keuangan,APP020,Tertutup,Ya
+2026-10,REP024,Repositori Contoh 024,INS04,Kementerian Keuangan,APP016,Terbuka,Ya
+2026-10,REP025,Repositori Contoh 025,INS05,Kementerian Kesehatan,APP021,Tertutup,Ya
+2026-10,REP026,Repositori Contoh 026,INS05,Kementerian Kesehatan,APP022,Tertutup,Ya
+2026-10,REP027,Repositori Contoh 027,INS05,Kementerian Kesehatan,APP023,Terbuka,Ya
+2026-10,REP028,Repositori Contoh 028,INS05,Kementerian Kesehatan,APP024,Tertutup,Tidak
+2026-10,REP029,Repositori Contoh 029,INS05,Kementerian Kesehatan,APP025,Tertutup,Ya
+2026-10,REP030,Repositori Contoh 030,INS05,Kementerian Kesehatan,APP021,Terbuka,Ya
+2026-10,REP031,Repositori Contoh 031,INS06,Badan Kepegawaian Negara,APP026,Tertutup,Ya
+2026-10,REP032,Repositori Contoh 032,INS06,Badan Kepegawaian Negara,APP027,Tertutup,Ya
+2026-10,REP033,Repositori Contoh 033,INS06,Badan Kepegawaian Negara,APP028,Belum Diklasifikasi,Ya
+2026-10,REP034,Repositori Contoh 034,INS06,Badan Kepegawaian Negara,APP029,Tertutup,Ya
+2026-10,REP035,Repositori Contoh 035,INS06,Badan Kepegawaian Negara,APP030,Tertutup,Tidak
+2026-10,REP036,Repositori Contoh 036,INS06,Badan Kepegawaian Negara,APP026,Terbuka,Ya
+2026-10,REP037,Repositori Contoh 037,INS07,Badan Pusat Statistik,APP031,Tertutup,Ya
+2026-10,REP038,Repositori Contoh 038,INS07,Badan Pusat Statistik,APP032,Tertutup,Ya
+2026-10,REP039,Repositori Contoh 039,INS07,Badan Pusat Statistik,APP033,Terbuka,Ya
+2026-10,REP040,Repositori Contoh 040,INS07,Badan Pusat Statistik,APP034,Tertutup,Ya
+2026-10,REP041,Repositori Contoh 041,INS07,Badan Pusat Statistik,APP035,Tertutup,Ya
+2026-10,REP042,Repositori Contoh 042,INS07,Badan Pusat Statistik,APP031,Terbuka,Tidak
+2026-10,REP043,Repositori Contoh 043,INS08,Arsip Nasional Republik Indonesia,APP036,Tertutup,Ya
+2026-10,REP044,Repositori Contoh 044,INS08,Arsip Nasional Republik Indonesia,APP037,Belum Diklasifikasi,Ya
+2026-10,REP045,Repositori Contoh 045,INS08,Arsip Nasional Republik Indonesia,APP038,Terbuka,Ya
+2026-10,REP046,Repositori Contoh 046,INS08,Arsip Nasional Republik Indonesia,APP039,Tertutup,Ya
+2026-10,REP047,Repositori Contoh 047,INS08,Arsip Nasional Republik Indonesia,APP040,Tertutup,Ya
+2026-10,REP048,Repositori Contoh 048,INS08,Arsip Nasional Republik Indonesia,APP036,Terbuka,Ya
