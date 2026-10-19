@@ -1,0 +1,73 @@
+instansi_id,instansi,periode,kode_indikator,indikator,nilai,satuan,pembilang,penyebut,status_data,definisi_pembilang,definisi_penyebut
+INS01,Instansi Simulasi A,2026-10,KPI-01,Jumlah aplikasi menerapkan standar,5,Jumlah,5,5,SIMULASI - BUKAN DATA RIIL,count aplikasi memenuhi standar,Semua aplikasi yang tercatat
+INS01,Instansi Simulasi A,2026-10,KPI-02,Layanan diselenggarakan melalui aplikasi,87.5,Persen,7,8,SIMULASI - BUKAN DATA RIIL,Layanan melalui aplikasi,Seluruh layanan digital
+INS01,Instansi Simulasi A,2026-10,KPI-03,Pemanfaatan aplikasi bagi pakai nasional,62.5,Persen,5,8,SIMULASI - BUKAN DATA RIIL,Pasangan instansi-aplikasi bagi pakai dimanfaatkan,Seluruh pasangan instansi-aplikasi yang ditargetkan
+INS01,Instansi Simulasi A,2026-10,KPI-04,Aplikasi terhubung Portal,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Aplikasi terhubung portal,Seluruh aplikasi
+INS01,Instansi Simulasi A,2026-10,KPI-05,Repositori kode sumber terbuka yang digunakan,33.3,Persen,2,6,SIMULASI - BUKAN DATA RIIL,Repositori terbuka aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS01,Instansi Simulasi A,2026-10,KPI-06,Repositori kode sumber tertutup yang digunakan,66.7,Persen,4,6,SIMULASI - BUKAN DATA RIIL,Repositori tertutup aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS01,Instansi Simulasi A,2026-10,KPI-07,Aplikasi memanfaatkan Sistem Penghubung,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Aplikasi menggunakan sistem penghubung,Seluruh aplikasi
+INS01,Instansi Simulasi A,2026-10,KPI-08,Kelaikan aplikasi yang sudah dinilai,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Aplikasi layak yang sudah dinilai,Seluruh aplikasi dengan status sudah dinilai
+INS01,Instansi Simulasi A,2026-10,KPI-09,Hasil audit aplikasi yang memenuhi,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Audit selesai dengan hasil memenuhi,Audit selesai dengan hasil memenuhi atau belum memenuhi
+INS02,Instansi Simulasi B,2026-10,KPI-01,Jumlah aplikasi menerapkan standar,3,Jumlah,3,5,SIMULASI - BUKAN DATA RIIL,count aplikasi memenuhi standar,Semua aplikasi yang tercatat
+INS02,Instansi Simulasi B,2026-10,KPI-02,Layanan diselenggarakan melalui aplikasi,62.5,Persen,5,8,SIMULASI - BUKAN DATA RIIL,Layanan melalui aplikasi,Seluruh layanan digital
+INS02,Instansi Simulasi B,2026-10,KPI-03,Pemanfaatan aplikasi bagi pakai nasional,62.5,Persen,5,8,SIMULASI - BUKAN DATA RIIL,Pasangan instansi-aplikasi bagi pakai dimanfaatkan,Seluruh pasangan instansi-aplikasi yang ditargetkan
+INS02,Instansi Simulasi B,2026-10,KPI-04,Aplikasi terhubung Portal,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Aplikasi terhubung portal,Seluruh aplikasi
+INS02,Instansi Simulasi B,2026-10,KPI-05,Repositori kode sumber terbuka yang digunakan,40.0,Persen,2,5,SIMULASI - BUKAN DATA RIIL,Repositori terbuka aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS02,Instansi Simulasi B,2026-10,KPI-06,Repositori kode sumber tertutup yang digunakan,40.0,Persen,2,5,SIMULASI - BUKAN DATA RIIL,Repositori tertutup aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS02,Instansi Simulasi B,2026-10,KPI-07,Aplikasi memanfaatkan Sistem Penghubung,60.0,Persen,3,5,SIMULASI - BUKAN DATA RIIL,Aplikasi menggunakan sistem penghubung,Seluruh aplikasi
+INS02,Instansi Simulasi B,2026-10,KPI-08,Kelaikan aplikasi yang sudah dinilai,75.0,Persen,3,4,SIMULASI - BUKAN DATA RIIL,Aplikasi layak yang sudah dinilai,Seluruh aplikasi dengan status sudah dinilai
+INS02,Instansi Simulasi B,2026-10,KPI-09,Hasil audit aplikasi yang memenuhi,66.7,Persen,2,3,SIMULASI - BUKAN DATA RIIL,Audit selesai dengan hasil memenuhi,Audit selesai dengan hasil memenuhi atau belum memenuhi
+INS03,Instansi Simulasi C,2026-10,KPI-01,Jumlah aplikasi menerapkan standar,3,Jumlah,3,5,SIMULASI - BUKAN DATA RIIL,count aplikasi memenuhi standar,Semua aplikasi yang tercatat
+INS03,Instansi Simulasi C,2026-10,KPI-02,Layanan diselenggarakan melalui aplikasi,75.0,Persen,6,8,SIMULASI - BUKAN DATA RIIL,Layanan melalui aplikasi,Seluruh layanan digital
+INS03,Instansi Simulasi C,2026-10,KPI-03,Pemanfaatan aplikasi bagi pakai nasional,75.0,Persen,6,8,SIMULASI - BUKAN DATA RIIL,Pasangan instansi-aplikasi bagi pakai dimanfaatkan,Seluruh pasangan instansi-aplikasi yang ditargetkan
+INS03,Instansi Simulasi C,2026-10,KPI-04,Aplikasi terhubung Portal,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Aplikasi terhubung portal,Seluruh aplikasi
+INS03,Instansi Simulasi C,2026-10,KPI-05,Repositori kode sumber terbuka yang digunakan,40.0,Persen,2,5,SIMULASI - BUKAN DATA RIIL,Repositori terbuka aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS03,Instansi Simulasi C,2026-10,KPI-06,Repositori kode sumber tertutup yang digunakan,60.0,Persen,3,5,SIMULASI - BUKAN DATA RIIL,Repositori tertutup aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS03,Instansi Simulasi C,2026-10,KPI-07,Aplikasi memanfaatkan Sistem Penghubung,60.0,Persen,3,5,SIMULASI - BUKAN DATA RIIL,Aplikasi menggunakan sistem penghubung,Seluruh aplikasi
+INS03,Instansi Simulasi C,2026-10,KPI-08,Kelaikan aplikasi yang sudah dinilai,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Aplikasi layak yang sudah dinilai,Seluruh aplikasi dengan status sudah dinilai
+INS03,Instansi Simulasi C,2026-10,KPI-09,Hasil audit aplikasi yang memenuhi,75.0,Persen,3,4,SIMULASI - BUKAN DATA RIIL,Audit selesai dengan hasil memenuhi,Audit selesai dengan hasil memenuhi atau belum memenuhi
+INS04,Instansi Simulasi D,2026-10,KPI-01,Jumlah aplikasi menerapkan standar,4,Jumlah,4,5,SIMULASI - BUKAN DATA RIIL,count aplikasi memenuhi standar,Semua aplikasi yang tercatat
+INS04,Instansi Simulasi D,2026-10,KPI-02,Layanan diselenggarakan melalui aplikasi,62.5,Persen,5,8,SIMULASI - BUKAN DATA RIIL,Layanan melalui aplikasi,Seluruh layanan digital
+INS04,Instansi Simulasi D,2026-10,KPI-03,Pemanfaatan aplikasi bagi pakai nasional,50.0,Persen,4,8,SIMULASI - BUKAN DATA RIIL,Pasangan instansi-aplikasi bagi pakai dimanfaatkan,Seluruh pasangan instansi-aplikasi yang ditargetkan
+INS04,Instansi Simulasi D,2026-10,KPI-04,Aplikasi terhubung Portal,60.0,Persen,3,5,SIMULASI - BUKAN DATA RIIL,Aplikasi terhubung portal,Seluruh aplikasi
+INS04,Instansi Simulasi D,2026-10,KPI-05,Repositori kode sumber terbuka yang digunakan,20.0,Persen,1,5,SIMULASI - BUKAN DATA RIIL,Repositori terbuka aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS04,Instansi Simulasi D,2026-10,KPI-06,Repositori kode sumber tertutup yang digunakan,60.0,Persen,3,5,SIMULASI - BUKAN DATA RIIL,Repositori tertutup aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS04,Instansi Simulasi D,2026-10,KPI-07,Aplikasi memanfaatkan Sistem Penghubung,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Aplikasi menggunakan sistem penghubung,Seluruh aplikasi
+INS04,Instansi Simulasi D,2026-10,KPI-08,Kelaikan aplikasi yang sudah dinilai,75.0,Persen,3,4,SIMULASI - BUKAN DATA RIIL,Aplikasi layak yang sudah dinilai,Seluruh aplikasi dengan status sudah dinilai
+INS04,Instansi Simulasi D,2026-10,KPI-09,Hasil audit aplikasi yang memenuhi,75.0,Persen,3,4,SIMULASI - BUKAN DATA RIIL,Audit selesai dengan hasil memenuhi,Audit selesai dengan hasil memenuhi atau belum memenuhi
+INS05,Instansi Simulasi E,2026-10,KPI-01,Jumlah aplikasi menerapkan standar,3,Jumlah,3,5,SIMULASI - BUKAN DATA RIIL,count aplikasi memenuhi standar,Semua aplikasi yang tercatat
+INS05,Instansi Simulasi E,2026-10,KPI-02,Layanan diselenggarakan melalui aplikasi,62.5,Persen,5,8,SIMULASI - BUKAN DATA RIIL,Layanan melalui aplikasi,Seluruh layanan digital
+INS05,Instansi Simulasi E,2026-10,KPI-03,Pemanfaatan aplikasi bagi pakai nasional,75.0,Persen,6,8,SIMULASI - BUKAN DATA RIIL,Pasangan instansi-aplikasi bagi pakai dimanfaatkan,Seluruh pasangan instansi-aplikasi yang ditargetkan
+INS05,Instansi Simulasi E,2026-10,KPI-04,Aplikasi terhubung Portal,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Aplikasi terhubung portal,Seluruh aplikasi
+INS05,Instansi Simulasi E,2026-10,KPI-05,Repositori kode sumber terbuka yang digunakan,40.0,Persen,2,5,SIMULASI - BUKAN DATA RIIL,Repositori terbuka aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS05,Instansi Simulasi E,2026-10,KPI-06,Repositori kode sumber tertutup yang digunakan,60.0,Persen,3,5,SIMULASI - BUKAN DATA RIIL,Repositori tertutup aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS05,Instansi Simulasi E,2026-10,KPI-07,Aplikasi memanfaatkan Sistem Penghubung,60.0,Persen,3,5,SIMULASI - BUKAN DATA RIIL,Aplikasi menggunakan sistem penghubung,Seluruh aplikasi
+INS05,Instansi Simulasi E,2026-10,KPI-08,Kelaikan aplikasi yang sudah dinilai,75.0,Persen,3,4,SIMULASI - BUKAN DATA RIIL,Aplikasi layak yang sudah dinilai,Seluruh aplikasi dengan status sudah dinilai
+INS05,Instansi Simulasi E,2026-10,KPI-09,Hasil audit aplikasi yang memenuhi,75.0,Persen,3,4,SIMULASI - BUKAN DATA RIIL,Audit selesai dengan hasil memenuhi,Audit selesai dengan hasil memenuhi atau belum memenuhi
+INS06,Instansi Simulasi F,2026-10,KPI-01,Jumlah aplikasi menerapkan standar,3,Jumlah,3,5,SIMULASI - BUKAN DATA RIIL,count aplikasi memenuhi standar,Semua aplikasi yang tercatat
+INS06,Instansi Simulasi F,2026-10,KPI-02,Layanan diselenggarakan melalui aplikasi,87.5,Persen,7,8,SIMULASI - BUKAN DATA RIIL,Layanan melalui aplikasi,Seluruh layanan digital
+INS06,Instansi Simulasi F,2026-10,KPI-03,Pemanfaatan aplikasi bagi pakai nasional,62.5,Persen,5,8,SIMULASI - BUKAN DATA RIIL,Pasangan instansi-aplikasi bagi pakai dimanfaatkan,Seluruh pasangan instansi-aplikasi yang ditargetkan
+INS06,Instansi Simulasi F,2026-10,KPI-04,Aplikasi terhubung Portal,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Aplikasi terhubung portal,Seluruh aplikasi
+INS06,Instansi Simulasi F,2026-10,KPI-05,Repositori kode sumber terbuka yang digunakan,20.0,Persen,1,5,SIMULASI - BUKAN DATA RIIL,Repositori terbuka aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS06,Instansi Simulasi F,2026-10,KPI-06,Repositori kode sumber tertutup yang digunakan,60.0,Persen,3,5,SIMULASI - BUKAN DATA RIIL,Repositori tertutup aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS06,Instansi Simulasi F,2026-10,KPI-07,Aplikasi memanfaatkan Sistem Penghubung,60.0,Persen,3,5,SIMULASI - BUKAN DATA RIIL,Aplikasi menggunakan sistem penghubung,Seluruh aplikasi
+INS06,Instansi Simulasi F,2026-10,KPI-08,Kelaikan aplikasi yang sudah dinilai,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Aplikasi layak yang sudah dinilai,Seluruh aplikasi dengan status sudah dinilai
+INS06,Instansi Simulasi F,2026-10,KPI-09,Hasil audit aplikasi yang memenuhi,100.0,Persen,3,3,SIMULASI - BUKAN DATA RIIL,Audit selesai dengan hasil memenuhi,Audit selesai dengan hasil memenuhi atau belum memenuhi
+INS07,Instansi Simulasi G,2026-10,KPI-01,Jumlah aplikasi menerapkan standar,4,Jumlah,4,5,SIMULASI - BUKAN DATA RIIL,count aplikasi memenuhi standar,Semua aplikasi yang tercatat
+INS07,Instansi Simulasi G,2026-10,KPI-02,Layanan diselenggarakan melalui aplikasi,62.5,Persen,5,8,SIMULASI - BUKAN DATA RIIL,Layanan melalui aplikasi,Seluruh layanan digital
+INS07,Instansi Simulasi G,2026-10,KPI-03,Pemanfaatan aplikasi bagi pakai nasional,62.5,Persen,5,8,SIMULASI - BUKAN DATA RIIL,Pasangan instansi-aplikasi bagi pakai dimanfaatkan,Seluruh pasangan instansi-aplikasi yang ditargetkan
+INS07,Instansi Simulasi G,2026-10,KPI-04,Aplikasi terhubung Portal,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Aplikasi terhubung portal,Seluruh aplikasi
+INS07,Instansi Simulasi G,2026-10,KPI-05,Repositori kode sumber terbuka yang digunakan,20.0,Persen,1,5,SIMULASI - BUKAN DATA RIIL,Repositori terbuka aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS07,Instansi Simulasi G,2026-10,KPI-06,Repositori kode sumber tertutup yang digunakan,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Repositori tertutup aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS07,Instansi Simulasi G,2026-10,KPI-07,Aplikasi memanfaatkan Sistem Penghubung,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Aplikasi menggunakan sistem penghubung,Seluruh aplikasi
+INS07,Instansi Simulasi G,2026-10,KPI-08,Kelaikan aplikasi yang sudah dinilai,75.0,Persen,3,4,SIMULASI - BUKAN DATA RIIL,Aplikasi layak yang sudah dinilai,Seluruh aplikasi dengan status sudah dinilai
+INS07,Instansi Simulasi G,2026-10,KPI-09,Hasil audit aplikasi yang memenuhi,80.0,Persen,4,5,SIMULASI - BUKAN DATA RIIL,Audit selesai dengan hasil memenuhi,Audit selesai dengan hasil memenuhi atau belum memenuhi
+INS08,Instansi Simulasi H,2026-10,KPI-01,Jumlah aplikasi menerapkan standar,4,Jumlah,4,5,SIMULASI - BUKAN DATA RIIL,count aplikasi memenuhi standar,Semua aplikasi yang tercatat
+INS08,Instansi Simulasi H,2026-10,KPI-02,Layanan diselenggarakan melalui aplikasi,75.0,Persen,6,8,SIMULASI - BUKAN DATA RIIL,Layanan melalui aplikasi,Seluruh layanan digital
+INS08,Instansi Simulasi H,2026-10,KPI-03,Pemanfaatan aplikasi bagi pakai nasional,75.0,Persen,6,8,SIMULASI - BUKAN DATA RIIL,Pasangan instansi-aplikasi bagi pakai dimanfaatkan,Seluruh pasangan instansi-aplikasi yang ditargetkan
+INS08,Instansi Simulasi H,2026-10,KPI-04,Aplikasi terhubung Portal,60.0,Persen,3,5,SIMULASI - BUKAN DATA RIIL,Aplikasi terhubung portal,Seluruh aplikasi
+INS08,Instansi Simulasi H,2026-10,KPI-05,Repositori kode sumber terbuka yang digunakan,33.3,Persen,2,6,SIMULASI - BUKAN DATA RIIL,Repositori terbuka aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS08,Instansi Simulasi H,2026-10,KPI-06,Repositori kode sumber tertutup yang digunakan,50.0,Persen,3,6,SIMULASI - BUKAN DATA RIIL,Repositori tertutup aktif digunakan layanan,Semua repositori aktif digunakan layanan
+INS08,Instansi Simulasi H,2026-10,KPI-07,Aplikasi memanfaatkan Sistem Penghubung,60.0,Persen,3,5,SIMULASI - BUKAN DATA RIIL,Aplikasi menggunakan sistem penghubung,Seluruh aplikasi
+INS08,Instansi Simulasi H,2026-10,KPI-08,Kelaikan aplikasi yang sudah dinilai,100.0,Persen,4,4,SIMULASI - BUKAN DATA RIIL,Aplikasi layak yang sudah dinilai,Seluruh aplikasi dengan status sudah dinilai
+INS08,Instansi Simulasi H,2026-10,KPI-09,Hasil audit aplikasi yang memenuhi,75.0,Persen,3,4,SIMULASI - BUKAN DATA RIIL,Audit selesai dengan hasil memenuhi,Audit selesai dengan hasil memenuhi atau belum memenuhi

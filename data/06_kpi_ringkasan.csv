@@ -1,0 +1,10 @@
+periode,kode_indikator,indikator,nilai,satuan,pembilang,penyebut,status_data,definisi_pembilang,definisi_penyebut
+2026-10,KPI-01,Jumlah aplikasi menerapkan standar,29,Jumlah,29,40,SIMULASI - BUKAN DATA RIIL,count aplikasi memenuhi standar,Semua aplikasi yang tercatat
+2026-10,KPI-02,Layanan diselenggarakan melalui aplikasi,71.9,Persen,46,64,SIMULASI - BUKAN DATA RIIL,Layanan melalui aplikasi,Seluruh layanan digital
+2026-10,KPI-03,Pemanfaatan aplikasi bagi pakai nasional,65.6,Persen,42,64,SIMULASI - BUKAN DATA RIIL,Pasangan instansi-aplikasi bagi pakai dimanfaatkan,Seluruh pasangan instansi-aplikasi yang ditargetkan
+2026-10,KPI-04,Aplikasi terhubung Portal,75.0,Persen,30,40,SIMULASI - BUKAN DATA RIIL,Aplikasi terhubung portal,Seluruh aplikasi
+2026-10,KPI-05,Repositori kode sumber terbuka yang digunakan,31.0,Persen,13,42,SIMULASI - BUKAN DATA RIIL,Repositori terbuka aktif digunakan layanan,Semua repositori aktif digunakan layanan
+2026-10,KPI-06,Repositori kode sumber tertutup yang digunakan,59.5,Persen,25,42,SIMULASI - BUKAN DATA RIIL,Repositori tertutup aktif digunakan layanan,Semua repositori aktif digunakan layanan
+2026-10,KPI-07,Aplikasi memanfaatkan Sistem Penghubung,67.5,Persen,27,40,SIMULASI - BUKAN DATA RIIL,Aplikasi menggunakan sistem penghubung,Seluruh aplikasi
+2026-10,KPI-08,Kelaikan aplikasi yang sudah dinilai,80.0,Persen,28,35,SIMULASI - BUKAN DATA RIIL,Aplikasi layak yang sudah dinilai,Seluruh aplikasi dengan status sudah dinilai
+2026-10,KPI-09,Hasil audit aplikasi yang memenuhi,78.1,Persen,25,32,SIMULASI - BUKAN DATA RIIL,Audit selesai dengan hasil memenuhi,Audit selesai dengan hasil memenuhi atau belum memenuhi
