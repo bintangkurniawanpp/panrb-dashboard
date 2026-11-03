@@ -1,0 +1,21 @@
+periode,no,layanan_id,nama_layanan,instansi_id,instansi,status_data
+2026-11,1,MSO001,Pemindahan ASN,INS06,Badan Kepegawaian Negara,SIMULASI - BUKAN DATA RIIL
+2026-11,2,MSO002,Akta Kelahiran,INS03,Kementerian Dalam Negeri,SIMULASI - BUKAN DATA RIIL
+2026-11,3,MSO003,Registrasi Halal,INS09,Badan Penyelenggara Jaminan Produk Halal,SIMULASI - BUKAN DATA RIIL
+2026-11,4,MSO004,Bantuan Perumahan,INS10,Kementerian Perumahan dan Kawasan Permukiman,SIMULASI - BUKAN DATA RIIL
+2026-11,5,MSO005,Pelaporan Kinerja Instansi Pemerintah,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,SIMULASI - BUKAN DATA RIIL
+2026-11,6,MSO006,Pengelolaan Arsip Statis,INS08,Arsip Nasional Republik Indonesia,SIMULASI - BUKAN DATA RIIL
+2026-11,7,MSO007,Kartu Tanda Penduduk Elektronik,INS03,Kementerian Dalam Negeri,SIMULASI - BUKAN DATA RIIL
+2026-11,8,MSO008,Pencairan Anggaran Negara,INS04,Kementerian Keuangan,SIMULASI - BUKAN DATA RIIL
+2026-11,9,MSO009,Publikasi Statistik,INS07,Badan Pusat Statistik,SIMULASI - BUKAN DATA RIIL
+2026-11,10,MSO010,Kenaikan Pangkat ASN,INS06,Badan Kepegawaian Negara,SIMULASI - BUKAN DATA RIIL
+2026-11,11,MSO011,Izin Edar Alat Kesehatan,INS05,Kementerian Kesehatan,SIMULASI - BUKAN DATA RIIL
+2026-11,12,MSO012,Sertifikasi Elektronik,INS02,Kementerian Komunikasi dan Digital,SIMULASI - BUKAN DATA RIIL
+2026-11,13,MSO013,Pengaduan Pelayanan Publik,INS01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,SIMULASI - BUKAN DATA RIIL
+2026-11,14,MSO014,Pelaporan Pajak,INS04,Kementerian Keuangan,SIMULASI - BUKAN DATA RIIL
+2026-11,15,MSO015,Rekam Medis Elektronik,INS05,Kementerian Kesehatan,SIMULASI - BUKAN DATA RIIL
+2026-11,16,MSO016,Perizinan Spektrum Frekuensi Radio,INS02,Kementerian Komunikasi dan Digital,SIMULASI - BUKAN DATA RIIL
+2026-11,17,MSO017,Akreditasi Kearsipan,INS08,Arsip Nasional Republik Indonesia,SIMULASI - BUKAN DATA RIIL
+2026-11,18,MSO018,Rekomendasi Kegiatan Statistik,INS07,Badan Pusat Statistik,SIMULASI - BUKAN DATA RIIL
+2026-11,19,MSO019,Sertifikasi Auditor Halal,INS09,Badan Penyelenggara Jaminan Produk Halal,SIMULASI - BUKAN DATA RIIL
+2026-11,20,MSO020,Sertifikat Laik Fungsi Rumah Susun,INS10,Kementerian Perumahan dan Kawasan Permukiman,SIMULASI - BUKAN DATA RIIL
