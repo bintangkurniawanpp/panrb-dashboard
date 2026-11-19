@@ -1,0 +1,25 @@
+instansi_id,standar,nomor_sertifikat,masa_berlaku,status_sertifikat,lembaga_sertifikasi,ruang_lingkup
+INS01,SNI ISO/IEC 27001,DUMMY-CERT-001,2027-12-31,Berlaku,Lembaga Sertifikasi Contoh B,Sistem manajemen keamanan informasi layanan SPBE
+INS01,ISO 27005,-,-,Tanpa Sertifikasi,-,-
+INS02,SNI ISO/IEC 27001,DUMMY-CERT-002,2028-06-30,Berlaku,Lembaga Sertifikasi Contoh C,Sistem manajemen keamanan informasi layanan SPBE
+INS02,SNI ISO/IEC 27701,DUMMY-CERT-003,2027-03-31,Berlaku,Lembaga Sertifikasi Contoh A,Sistem manajemen informasi privasi
+INS02,TIA 942,DUMMY-CERT-004,2027-12-31,Berlaku,Lembaga Sertifikasi Contoh B,Pusat data instansi
+INS02,ISO 27033,-,-,Tanpa Sertifikasi,-,-
+INS04,SNI ISO/IEC 27001,DUMMY-CERT-005,2028-06-30,Berlaku,Lembaga Sertifikasi Contoh C,Sistem manajemen keamanan informasi layanan SPBE
+INS04,TIA 942,DUMMY-CERT-006,2027-03-31,Berlaku,Lembaga Sertifikasi Contoh A,Pusat data instansi
+INS04,SNI 8799,DUMMY-CERT-007,2027-12-31,Berlaku,Lembaga Sertifikasi Contoh B,Pusat data instansi
+INS05,SNI ISO/IEC 27001,DUMMY-CERT-008,2028-06-30,Berlaku,Lembaga Sertifikasi Contoh C,Sistem manajemen keamanan informasi layanan SPBE
+INS05,SNI ISO/IEC 27701,DUMMY-CERT-009,2027-03-31,Berlaku,Lembaga Sertifikasi Contoh A,Sistem manajemen informasi privasi
+INS06,SNI ISO/IEC 27001,DUMMY-CERT-010,2026-06-30,Kedaluwarsa,Lembaga Sertifikasi Contoh B,Sistem manajemen keamanan informasi layanan SPBE
+INS07,SNI ISO/IEC 27001,DUMMY-CERT-011,2028-06-30,Berlaku,Lembaga Sertifikasi Contoh C,Sistem manajemen keamanan informasi layanan SPBE
+INS07,ISO 27005,-,-,Tanpa Sertifikasi,-,-
+INS11,SNI ISO/IEC 27001,DUMMY-CERT-012,2027-03-31,Berlaku,Lembaga Sertifikasi Contoh A,Sistem manajemen keamanan informasi layanan SPBE
+INS11,ISO 30107,-,-,Tanpa Sertifikasi,-,-
+INS11,ISO 27033,-,-,Tanpa Sertifikasi,-,-
+INS11,ISO 27005,-,-,Tanpa Sertifikasi,-,-
+INS12,SNI ISO/IEC 27001,DUMMY-CERT-013,2027-12-31,Berlaku,Lembaga Sertifikasi Contoh B,Sistem manajemen keamanan informasi layanan SPBE
+INS13,ISO 27005,-,-,Tanpa Sertifikasi,-,-
+INS16,SNI ISO/IEC 27001,DUMMY-CERT-014,2028-06-30,Berlaku,Lembaga Sertifikasi Contoh C,Sistem manajemen keamanan informasi layanan SPBE
+INS16,TIA 942,DUMMY-CERT-015,2027-03-31,Berlaku,Lembaga Sertifikasi Contoh A,Pusat data instansi
+INS17,SNI ISO/IEC 27001,DUMMY-CERT-016,2027-12-31,Berlaku,Lembaga Sertifikasi Contoh B,Sistem manajemen keamanan informasi layanan SPBE
+INS17,SNI 8799,DUMMY-CERT-017,2026-06-30,Kedaluwarsa,Lembaga Sertifikasi Contoh C,Pusat data instansi

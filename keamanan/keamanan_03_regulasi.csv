@@ -1,0 +1,21 @@
+instansi_id,peraturan_meso,jumlah_peraturan_meso,daftar_peraturan_meso,peraturan_internal,jumlah_peraturan_internal,status_regulasi_lainnya
+INS01,Ada,4,Peraturan BSSN No. 1 Tahun 2024; Peraturan BSSN No. 8 Tahun 2020; Peraturan BSSN No. 8 Tahun 2024; Peraturan BSSN No. 11 Tahun 2024,Ada,2,Ada Keduanya
+INS02,Ada,5,Peraturan BSSN No. 1 Tahun 2024; Peraturan BSSN No. 8 Tahun 2020; Peraturan BSSN No. 8 Tahun 2024; Peraturan BSSN No. 11 Tahun 2024; Peraturan BSSN No. 7 Tahun 2024,Ada,1,Ada Keduanya
+INS03,Ada,2,Peraturan BSSN No. 1 Tahun 2024; Peraturan BSSN No. 8 Tahun 2020,Tidak Ada,0,Hanya Peraturan Meso
+INS04,Ada,3,Peraturan BSSN No. 1 Tahun 2024; Peraturan BSSN No. 8 Tahun 2020; Peraturan BSSN No. 8 Tahun 2024,Ada,2,Ada Keduanya
+INS05,Ada,2,Peraturan BSSN No. 1 Tahun 2024; Peraturan BSSN No. 8 Tahun 2020,Ada,1,Ada Keduanya
+INS06,Ada,1,Peraturan BSSN No. 1 Tahun 2024,Tidak Ada,0,Hanya Peraturan Meso
+INS07,Ada,2,Peraturan BSSN No. 1 Tahun 2024; Peraturan BSSN No. 8 Tahun 2020,Tidak Ada,0,Hanya Peraturan Meso
+INS08,Tidak Ada,0,-,Ada,1,Hanya Peraturan Internal
+INS09,Tidak Ada,0,-,Ada,1,Hanya Peraturan Internal
+INS10,Tidak Ada,0,-,Tidak Ada,0,Tidak Ada
+INS11,Ada,5,Peraturan BSSN No. 1 Tahun 2024; Peraturan BSSN No. 8 Tahun 2020; Peraturan BSSN No. 8 Tahun 2024; Peraturan BSSN No. 11 Tahun 2024; Peraturan BSSN No. 7 Tahun 2024,Ada,2,Ada Keduanya
+INS12,Ada,2,Peraturan BSSN No. 1 Tahun 2024; Peraturan BSSN No. 8 Tahun 2020,Ada,1,Ada Keduanya
+INS13,Ada,1,Peraturan BSSN No. 1 Tahun 2024,Tidak Ada,0,Hanya Peraturan Meso
+INS14,Tidak Ada,0,-,Tidak Ada,0,Tidak Ada
+INS15,Tidak Ada,0,-,Tidak Ada,0,Tidak Ada
+INS16,Ada,3,Peraturan BSSN No. 1 Tahun 2024; Peraturan BSSN No. 8 Tahun 2020; Peraturan BSSN No. 8 Tahun 2024,Ada,1,Ada Keduanya
+INS17,Ada,2,Peraturan BSSN No. 1 Tahun 2024; Peraturan BSSN No. 8 Tahun 2020,Tidak Ada,0,Hanya Peraturan Meso
+INS18,Ada,1,Peraturan BSSN No. 1 Tahun 2024,Tidak Ada,0,Hanya Peraturan Meso
+INS19,Ada,1,Peraturan BSSN No. 1 Tahun 2024,Tidak Ada,0,Hanya Peraturan Meso
+INS20,Tidak Ada,0,-,Ada,1,Hanya Peraturan Internal

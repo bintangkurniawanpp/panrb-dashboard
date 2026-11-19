@@ -1,0 +1,21 @@
+instansi_id,status_adopsi_internasional,jumlah_standar_diadopsi,daftar_standar,jumlah_sertifikat_berlaku
+INS01,Sudah Adopsi,2,SNI ISO/IEC 27001; ISO 27005,1
+INS02,Sudah Adopsi,4,SNI ISO/IEC 27001; SNI ISO/IEC 27701; TIA 942; ISO 27033,3
+INS03,Belum Adopsi,0,-,0
+INS04,Sudah Adopsi,3,SNI ISO/IEC 27001; TIA 942; SNI 8799,3
+INS05,Sudah Adopsi,2,SNI ISO/IEC 27001; SNI ISO/IEC 27701,2
+INS06,Sudah Adopsi,1,SNI ISO/IEC 27001,0
+INS07,Sudah Adopsi,2,SNI ISO/IEC 27001; ISO 27005,1
+INS08,Belum Adopsi,0,-,0
+INS09,Belum Adopsi,0,-,0
+INS10,Belum Adopsi,0,-,0
+INS11,Sudah Adopsi,4,SNI ISO/IEC 27001; ISO 30107; ISO 27033; ISO 27005,1
+INS12,Sudah Adopsi,1,SNI ISO/IEC 27001,1
+INS13,Sudah Adopsi,1,ISO 27005,0
+INS14,Belum Adopsi,0,-,0
+INS15,Belum Adopsi,0,-,0
+INS16,Sudah Adopsi,2,SNI ISO/IEC 27001; TIA 942,2
+INS17,Sudah Adopsi,2,SNI ISO/IEC 27001; SNI 8799,1
+INS18,Belum Adopsi,0,-,0
+INS19,Belum Adopsi,0,-,0
+INS20,Belum Adopsi,0,-,0

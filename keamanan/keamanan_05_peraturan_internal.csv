@@ -1,0 +1,14 @@
+instansi_id,nama_peraturan,tanggal_penetapan,sudah_dievaluasi,sudah_disosialisasi
+INS01,Peraturan Menteri tentang Keamanan Informasi,2024-03-12,Sudah,Sudah
+INS01,Pedoman Teknis Pengelolaan Insiden Siber,2025-02-03,Belum,Sudah
+INS02,Peraturan Menteri tentang Keamanan Pemerintah Digital,2024-07-01,Sudah,Sudah
+INS04,Keputusan Menteri tentang Kebijakan Keamanan Informasi,2023-11-20,Sudah,Sudah
+INS04,Prosedur Pengendalian Akses Sistem,2025-05-15,Belum,Belum
+INS05,Pedoman Keamanan Data Kesehatan,2025-01-08,Belum,Sudah
+INS08,Peraturan Kepala tentang Keamanan Arsip Elektronik,2024-09-30,Sudah,Belum
+INS09,Prosedur Keamanan Aplikasi Sertifikasi Halal,2025-06-10,Belum,Belum
+INS11,Peraturan Badan tentang Manajemen Keamanan Informasi,2023-05-22,Sudah,Sudah
+INS11,Pedoman Teknis Respons Insiden,2024-12-01,Sudah,Sudah
+INS12,Prosedur Keamanan Komunikasi Diplomatik,2024-04-18,Sudah,Belum
+INS16,Pedoman Keamanan Sistem Registrasi Produk,2025-03-27,Belum,Sudah
+INS20,Prosedur Pencadangan Data,2025-08-04,Belum,Belum
