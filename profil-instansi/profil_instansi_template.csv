@@ -1,0 +1,7 @@
+instansi_id,instansi,kategori,model_guid,waktu_update,asis_proses_bisnis,asis_layanan,asis_data_info,asis_aplikasi,asis_infra,asis_keamanan,tobe_proses_bisnis,tobe_layanan,tobe_data_info,tobe_aplikasi,tobe_infra,tobe_keamanan,jml_domain_asis,jml_domain_tobe,peta_rencana,clearance,reviu_evaluasi,tingkat_kematangan,eval_pemdi_ind1,eval_pemdi_ind15,indeks_rb,jml_fad,jml_scd,jml_ad
+TPL01,Instansi Contoh A,Kementerian,,27/11/26 09:00:00,35,2,15,5,0,0,0,0,0,0,0,0,4,0,Sudah Ada,Belum,Belum,3,1.75,1.5,2,10,7,5
+TPL02,Instansi Contoh B,Kementerian,,27/11/26 09:00:00,40,60,120,30,50,10,0,5,10,8,12,2,6,5,Sudah Ada,Sudah,Belum,4,2.5,2,3,14,9,6
+TPL03,Instansi Contoh C,LPNK,,27/11/26 09:00:00,12,8,40,6,9,0,0,0,0,0,0,0,5,0,Belum,Belum,Belum,2,1,1,1,4,2,1
+TPL04,Instansi Contoh D,LNS,,27/11/26 09:00:00,5,3,0,2,0,0,0,0,0,0,0,0,3,0,Belum,Belum,Belum,1,0.5,0.5,1,2,1,0
+TPL05,Instansi Contoh E,Provinsi,,27/11/26 09:00:00,60,45,200,80,90,20,0,10,30,20,25,5,6,5,Sudah Ada,Sudah,Sudah,4,3,2.5,3,20,12,9
+TPL06,Instansi Contoh F,Kab/Kota,,27/11/26 09:00:00,18,12,25,4,6,1,0,0,2,1,0,0,6,2,Sudah Ada,Belum,Belum,3,1.5,1.25,2,6,3,2
