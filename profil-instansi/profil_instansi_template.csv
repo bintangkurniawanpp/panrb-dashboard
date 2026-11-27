@@ -1,5 +1,5 @@
 instansi_id,instansi,kategori,model_guid,waktu_update,asis_proses_bisnis,asis_layanan,asis_data_info,asis_aplikasi,asis_infra,asis_keamanan,tobe_proses_bisnis,tobe_layanan,tobe_data_info,tobe_aplikasi,tobe_infra,tobe_keamanan,jml_domain_asis,jml_domain_tobe,peta_rencana,clearance,reviu_evaluasi,tingkat_kematangan,eval_pemdi,indeks_rb,jml_fad,jml_scd,jml_ad
-KMT01,Kementerian Agama,Kementerian,4edf88f0-06e3-11ef-03f9-00505601464d,27/11/26 09:00:00,47,47,95,3,44,4,0,1,3,17,30,3,6,5,Sudah Ada,Belum,Belum,3,1.25,1.75,11,9,2
+KMT01,Kementerian Agama,Kementerian,31a5ad40-cc99-11f1-0960-00505601464d,27/11/26 09:00:00,47,47,95,3,44,4,0,1,3,17,30,3,6,5,Sudah Ada,Belum,Belum,3,1.25,1.75,11,9,2
 KMT02,Kementerian Dalam Negeri,Kementerian,,27/11/26 09:00:00,11,66,483,157,332,113,0,40,114,53,100,22,6,5,Sudah Ada,Sudah,Belum,4,2.75,3.75,7,12,3
 KMT03,Kementerian Kesehatan,Kementerian,,27/11/26 09:00:00,9,50,227,517,1114,32,10,1,3,16,30,3,6,6,Sudah Ada,Sudah,Belum,4,4.0,1.75,5,6,0
 KMT04,Kementerian Keuangan,Kementerian,,27/11/26 09:00:00,3,178,45,217,398,71,2,2,0,1,37,12,6,5,Sudah Ada,Sudah,Belum,4,1.25,3.0,19,4,9
