@@ -1,7 +1,49 @@
-instansi_id,instansi,kategori,model_guid,waktu_update,asis_proses_bisnis,asis_layanan,asis_data_info,asis_aplikasi,asis_infra,asis_keamanan,tobe_proses_bisnis,tobe_layanan,tobe_data_info,tobe_aplikasi,tobe_infra,tobe_keamanan,jml_domain_asis,jml_domain_tobe,peta_rencana,clearance,reviu_evaluasi,tingkat_kematangan,eval_pemdi_ind1,eval_pemdi_ind15,indeks_rb,jml_fad,jml_scd,jml_ad
-TPL01,Instansi Contoh A,Kementerian,,27/11/26 09:00:00,35,2,15,5,0,0,0,0,0,0,0,0,4,0,Sudah Ada,Belum,Belum,3,1.75,1.5,2,10,7,5
-TPL02,Instansi Contoh B,Kementerian,,27/11/26 09:00:00,40,60,120,30,50,10,0,5,10,8,12,2,6,5,Sudah Ada,Sudah,Belum,4,2.5,2,3,14,9,6
-TPL03,Instansi Contoh C,LPNK,,27/11/26 09:00:00,12,8,40,6,9,0,0,0,0,0,0,0,5,0,Belum,Belum,Belum,2,1,1,1,4,2,1
-TPL04,Instansi Contoh D,LNS,,27/11/26 09:00:00,5,3,0,2,0,0,0,0,0,0,0,0,3,0,Belum,Belum,Belum,1,0.5,0.5,1,2,1,0
-TPL05,Instansi Contoh E,Provinsi,,27/11/26 09:00:00,60,45,200,80,90,20,0,10,30,20,25,5,6,5,Sudah Ada,Sudah,Sudah,4,3,2.5,3,20,12,9
-TPL06,Instansi Contoh F,Kab/Kota,,27/11/26 09:00:00,18,12,25,4,6,1,0,0,2,1,0,0,6,2,Sudah Ada,Belum,Belum,3,1.5,1.25,2,6,3,2
+instansi_id,instansi,kategori,model_guid,waktu_update,asis_proses_bisnis,asis_layanan,asis_data_info,asis_aplikasi,asis_infra,asis_keamanan,tobe_proses_bisnis,tobe_layanan,tobe_data_info,tobe_aplikasi,tobe_infra,tobe_keamanan,jml_domain_asis,jml_domain_tobe,peta_rencana,clearance,reviu_evaluasi,tingkat_kematangan,eval_pemdi,indeks_rb,jml_fad,jml_scd,jml_ad
+KMT01,Kementerian Agama,Kementerian,,27/11/26 09:00:00,47,47,95,3,44,4,0,1,3,17,30,3,6,5,Sudah Ada,Belum,Belum,3,1.25,1.75,11,9,2
+KMT02,Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional,Kementerian,,27/11/26 09:00:00,49,255,906,98,104,81,0,0,0,12,28,4,6,3,Sudah Ada,Sudah,Belum,4,1.5,2.25,10,2,2
+KMT03,Kementerian Dalam Negeri,Kementerian,,27/11/26 09:00:00,11,66,483,157,332,113,0,40,114,53,100,22,6,5,Sudah Ada,Sudah,Belum,4,2.75,3.75,7,12,3
+KMT04,Kementerian Desa dan Pembangunan Daerah Tertinggal,Kementerian,,27/11/26 09:00:00,49,28,188,38,71,14,0,1,47,5,19,2,6,5,Sudah Ada,Sudah,Belum,4,1.25,4.0,17,3,0
+KMT05,Kementerian Ekonomi Kreatif/Badan Ekonomi Kreatif,Kementerian,,27/11/26 09:00:00,22,182,230,7,26,18,0,2,0,11,5,0,6,3,Sudah Ada,Sudah,Belum,4,1.25,3.5,18,10,8
+KMT06,Kementerian Energi dan Sumber Daya Mineral,Kementerian,,27/11/26 09:00:00,67,133,504,236,428,31,0,3,13,16,77,27,6,5,Sudah Ada,Sudah,Belum,4,3.5,2.5,3,9,0
+KMT07,Kementerian Haji dan Umrah,Kementerian,,27/11/26 09:00:00,0,0,39,8,9,0,0,12,2,0,13,2,3,4,Sudah Ada,Sudah,Belum,0,2.75,1.75,18,3,6
+KMT08,Kementerian Hak Asasi Manusia,Kementerian,,27/11/26 09:00:00,64,26,96,14,8,2,12,19,84,7,34,38,6,6,Sudah Ada,Sudah,Belum,4,4.25,3.5,6,5,6
+KMT09,Kementerian Hukum,Kementerian,,27/11/26 09:00:00,8,72,214,32,223,48,1,0,0,0,70,0,6,2,Sudah Ada,Sudah,Belum,4,2.75,2.25,9,5,8
+KMT10,Kementerian Imigrasi dan Pemasyarakatan,Kementerian,,27/11/26 09:00:00,1,46,117,37,35,1,6,2,30,29,36,1,6,6,Sudah Ada,Sudah,Belum,4,2.75,3.0,10,2,2
+KMT11,Kementerian Investasi dan Hilirisasi/Badan Koordinasi Penanaman Modal,Kementerian,,27/11/26 09:00:00,9,31,64,59,295,13,0,0,0,2,1,3,6,3,Sudah Ada,Sudah,Belum,4,2.0,1.25,7,10,1
+KMT12,Kementerian Kebudayaan,Kementerian,,27/11/26 09:00:00,13,169,902,105,24,54,0,4,0,5,9,1,6,4,Sudah Ada,Sudah,Belum,4,1.25,3.5,3,5,3
+KMT13,Kementerian Kehutanan,Kementerian,,27/11/26 09:00:00,41,8,25,137,83,2,43,7,23,4,9,10,6,6,Sudah Ada,Sudah,Belum,4,2.0,2.25,10,4,0
+KMT14,Kementerian Kelautan dan Perikanan,Kementerian,,27/11/26 09:00:00,5,19,28,145,172,3,5,6,7,14,17,3,6,6,Sudah Ada,Sudah,Belum,4,1.25,2.0,17,9,8
+KMT15,Kementerian Kependudukan dan Pembangunan Keluarga/Badan Kependudukan dan Keluarga Berencana Nasional,Kementerian,,27/11/26 09:00:00,57,11,248,39,670,17,2,0,88,23,147,6,6,5,Sudah Ada,Sudah,Belum,4,2.75,3.0,7,7,3
+KMT16,Kementerian Kesehatan,Kementerian,,27/11/26 09:00:00,9,50,227,517,1114,32,10,1,3,16,30,3,6,6,Sudah Ada,Sudah,Belum,4,4.0,1.75,5,6,0
+KMT17,Kementerian Ketenagakerjaan,Kementerian,,27/11/26 09:00:00,41,31,98,135,126,20,0,0,0,0,24,0,6,1,Sudah Ada,Sudah,Belum,4,4.25,3.25,11,1,9
+KMT18,Kementerian Keuangan,Kementerian,,27/11/26 09:00:00,3,178,45,217,398,71,2,2,0,1,37,12,6,5,Sudah Ada,Sudah,Belum,4,1.25,3.0,19,4,9
+KMT19,Kementerian Komunikasi dan Digital,Kementerian,,27/11/26 09:00:00,37,333,622,237,434,105,2,34,42,186,769,28,6,6,Sudah Ada,Sudah,Belum,4,1.25,2.25,3,8,0
+KMT20,"Kementerian Koordinator Bidang Hukum, Hak Asasi Manusia, Imigrasi, dan Pemasyarakatan",Kementerian,,27/11/26 09:00:00,0,8,66,4,19,1,0,0,22,0,0,0,5,1,Sudah Ada,Sudah,Belum,0,2.0,3.5,10,10,2
+KMT21,Kementerian Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan,Kementerian,,27/11/26 09:00:00,44,36,55,27,6,3,2,0,0,2,0,0,6,2,Sudah Ada,Belum,Belum,3,2.25,2.0,19,5,7
+KMT22,Kementerian Koordinator Bidang Pangan,Kementerian,,27/11/26 09:00:00,34,45,93,1,6,5,0,0,22,1,2,0,6,3,Sudah Ada,Sudah,Belum,4,3.0,1.0,5,3,5
+KMT23,Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan,Kementerian,,27/11/26 09:00:00,210,83,151,23,161,19,1,1,32,1,2,2,6,6,Sudah Ada,Sudah,Belum,4,1.5,3.75,20,11,5
+KMT24,Kementerian Koordinator Bidang Pemberdayaan Masyarakat,Kementerian,,27/11/26 09:00:00,1,4,59,1,15,1,5,4,33,2,0,0,6,4,Sudah Ada,Belum,Belum,3,1.5,2.5,17,8,8
+KMT25,Kementerian Koordinator Bidang Perekonomian,Kementerian,,27/11/26 09:00:00,149,67,95,28,4,4,3,2,1,13,6,2,6,6,Sudah Ada,Belum,Belum,3,3.75,2.5,16,5,6
+KMT26,Kementerian Koordinator Bidang Politik dan Keamanan,Kementerian,,27/11/26 09:00:00,22,7,60,13,11,8,1,1,33,3,0,0,6,4,Belum,Belum,Belum,2,1.5,3.25,7,9,4
+KMT27,Kementerian Koperasi,Kementerian,,27/11/26 09:00:00,3,14,72,15,47,39,1,0,33,4,0,0,6,3,Sudah Ada,Belum,Belum,3,3.75,3.5,18,8,1
+KMT28,Kementerian Lingkungan Hidup/Badan Pengendalian Lingkungan Hidup,Kementerian,,27/11/26 09:00:00,227,157,470,228,180,11,20,0,0,2,1,14,6,4,Sudah Ada,Sudah,Belum,4,1.25,3.5,4,8,2
+KMT29,Kementerian Luar Negeri,Kementerian,,27/11/26 09:00:00,18,45,126,262,150,46,1,3,35,57,28,3,6,6,Sudah Ada,Sudah,Belum,4,3.0,3.5,10,5,1
+KMT30,Kementerian Pariwisata,Kementerian,,27/11/26 09:00:00,47,85,192,75,353,7,3,11,0,9,14,0,6,4,Sudah Ada,Sudah,Belum,4,4.0,3.5,20,10,5
+KMT31,Kementerian Pekerjaan Umum,Kementerian,,27/11/26 09:00:00,82,29,450,90,38,94,0,2,27,2,14,0,6,4,Sudah Ada,Sudah,Belum,4,2.5,2.5,11,11,5
+KMT32,Kementerian Pelindungan Pekerja Migran Indonesia/Badan Pelindungan Pekerja Migran Indonesia,Kementerian,,27/11/26 09:00:00,58,251,54,21,370,3,5,21,14,2,52,5,6,6,Sudah Ada,Belum,Belum,3,3.0,3.25,2,3,8
+KMT33,Kementerian Pemberdayaan Perempuan dan Perlindungan Anak,Kementerian,,27/11/26 09:00:00,2,1,122,72,123,10,0,0,0,1,0,0,6,1,Sudah Ada,Belum,Belum,3,2.75,1.75,20,10,3
+KMT34,Kementerian Pemuda dan Olahraga,Kementerian,,27/11/26 09:00:00,17,41,50,58,301,19,1,15,7,20,81,17,6,6,Sudah Ada,Sudah,Belum,4,1.5,1.5,6,2,8
+KMT35,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Kementerian,,27/11/26 09:00:00,24,34,123,25,52,6,2,3,36,9,4,1,6,6,Sudah Ada,Sudah,Belum,4,3.75,2.5,16,12,2
+KMT36,Kementerian Pendidikan Dasar dan Menengah,Kementerian,,27/11/26 09:00:00,26,93,764,418,54,79,1,266,7,19,164,12,6,6,Sudah Ada,Sudah,Belum,4,4.25,3.0,11,12,5
+KMT37,"Kementerian Pendidikan Tinggi, Sains, dan Teknologi",Kementerian,,27/11/26 09:00:00,52,42,139,183,539,52,0,0,1,9,3,0,6,3,Sudah Ada,Sudah,Belum,4,3.5,3.5,2,12,2
+KMT38,Kementerian Perdagangan,Kementerian,,27/11/26 09:00:00,8,14,183,105,487,37,0,57,58,15,17,3,6,5,Sudah Ada,Sudah,Belum,4,1.25,2.25,2,7,4
+KMT39,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Kementerian,,27/11/26 09:00:00,37,56,1328,102,174,54,7,16,33,7,8,42,6,6,Sudah Ada,Sudah,Belum,4,2.5,2.5,9,9,4
+KMT40,Kementerian Perhubungan,Kementerian,,27/11/26 09:00:00,17,548,1069,16,890,28,2,21,16,0,12,1,6,5,Sudah Ada,Sudah,Belum,4,1.25,3.0,17,1,7
+KMT41,Kementerian Perindustrian,Kementerian,,27/11/26 09:00:00,58,36,116,105,248,7,26,22,119,42,82,15,6,6,Sudah Ada,Sudah,Belum,4,4.0,1.0,8,4,6
+KMT42,Kementerian Pertahanan,Kementerian,,27/11/26 09:00:00,2,12,56,19,28,6,12,2,4,4,3,10,6,6,Sudah Ada,Belum,Belum,3,4.0,2.0,19,5,0
+KMT43,Kementerian Pertanian,Kementerian,,27/11/26 09:00:00,37,134,308,231,521,21,0,12,34,19,8,0,6,4,Sudah Ada,Sudah,Belum,4,2.75,3.75,3,2,7
+KMT44,Kementerian Perumahan dan Kawasan Permukiman,Kementerian,,27/11/26 09:00:00,24,25,82,18,32,32,0,0,65,3,0,0,6,2,Sudah Ada,Belum,Belum,3,3.75,2.25,8,10,2
+KMT45,Kementerian Sekretariat Negara,Kementerian,,27/11/26 09:00:00,8,65,621,158,328,163,1,0,28,3,19,6,6,5,Sudah Ada,Sudah,Belum,4,1.25,1.25,2,2,2
+KMT46,Kementerian Sosial,Kementerian,,27/11/26 09:00:00,1,21,25,35,20,16,1,2,0,5,74,0,6,4,Sudah Ada,Sudah,Belum,4,2.25,2.5,20,8,6
+KMT47,Kementerian Transmigrasi,Kementerian,,27/11/26 09:00:00,1,25,124,34,71,6,0,4,10,11,0,1,6,4,Sudah Ada,Sudah,Belum,4,3.25,1.5,9,7,4
+KMT48,"Kementerian Usaha Mikro, Kecil, dan Menengah",Kementerian,,27/11/26 09:00:00,2,8,3,5,41,20,0,0,1,0,2,0,6,2,Sudah Ada,Sudah,Belum,4,4.25,4.0,4,4,3
