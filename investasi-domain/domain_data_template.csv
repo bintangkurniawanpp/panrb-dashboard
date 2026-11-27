@@ -1,0 +1,144 @@
+jenis_baris,domain_data,nama_data,instansi,prioritas,status_peta,jumlah,terpetakan_n,prioritas_n,pct_prioritas
+DOMAIN,Sosial,,,,Terpetakan,1,1,0,0
+DOMAIN,Ekonomi,,,,Terpetakan,1,1,0,0
+DOMAIN,Pemerintahan,,,,Terpetakan,1,1,0,0
+DOMAIN,Infrastruktur,,,,Terpetakan,1,1,0,0
+DOMAIN,Lingkungan,,,,Terpetakan,1,1,0,0
+DOMAIN,Kewilayahan,,,,Terpetakan,1,1,0,0
+DOMAIN,Pendidikan,,,,Terpetakan,1,1,0,0
+DOMAIN,Kesehatan,,,,Terpetakan,1,1,0,0
+DOMAIN,Hukum,,,,Terpetakan,1,1,0,0
+DOMAIN,Ketenagakerjaan,,,,Terpetakan,1,1,0,0
+DOMAIN,Keuangan,,,,Terpetakan,1,1,0,0
+DOMAIN,Pangan dan Pertanian,,,,Terpetakan,1,1,0,0
+DOMAIN,Energi,,,,Terpetakan,1,1,0,0
+DOMAIN,Pertahanan dan Keamanan,,,,Terpetakan,1,1,0,0
+DOMAIN,Kebudayaan,,,,Belum Terpetakan,1,0,0,0
+DOMAIN,Pariwisata,,,,Belum Terpetakan,1,0,0,0
+DATA,Sosial,Data Sosial 01,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Sosial,Data Sosial 02,Kementerian Dalam Negeri,Prioritas,,1,0,1,100
+DATA,Sosial,Data Sosial 03,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Sosial,Data Sosial 04,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Non Prioritas,,1,0,0,0
+DATA,Sosial,Data Sosial 05,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Non Prioritas,,1,0,0,0
+DATA,Sosial,Data Sosial 06,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Sosial,Data Sosial 07,Kementerian Keuangan,Prioritas,,1,0,1,100
+DATA,Sosial,Data Sosial 08,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Sosial,Data Sosial 09,Kementerian Koordinator Bidang Politik dan Keamanan,Prioritas,,1,0,1,100
+DATA,Ekonomi,Data Ekonomi 01,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Ekonomi,Data Ekonomi 02,Kementerian Dalam Negeri,Prioritas,,1,0,1,100
+DATA,Ekonomi,Data Ekonomi 03,Kementerian Agama,Prioritas,,1,0,1,100
+DATA,Ekonomi,Data Ekonomi 04,Kementerian Keuangan,Non Prioritas,,1,0,0,0
+DATA,Ekonomi,Data Ekonomi 05,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Pemerintahan,Data Pemerintahan 01,Kementerian Agama,Prioritas,,1,0,1,100
+DATA,Pemerintahan,Data Pemerintahan 02,Kementerian Agama,Non Prioritas,,1,0,0,0
+DATA,Pemerintahan,Data Pemerintahan 03,Kementerian Komunikasi dan Digital,Prioritas,,1,0,1,100
+DATA,Pemerintahan,Data Pemerintahan 04,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Pemerintahan,Data Pemerintahan 05,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Pemerintahan,Data Pemerintahan 06,Kementerian Komunikasi dan Digital,Prioritas,,1,0,1,100
+DATA,Pemerintahan,Data Pemerintahan 07,Kementerian Agama,Non Prioritas,,1,0,0,0
+DATA,Pemerintahan,Data Pemerintahan 08,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Pemerintahan,Data Pemerintahan 09,Kementerian Koordinator Bidang Politik dan Keamanan,Non Prioritas,,1,0,0,0
+DATA,Pemerintahan,Data Pemerintahan 10,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Prioritas,,1,0,1,100
+DATA,Pemerintahan,Data Pemerintahan 11,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Non Prioritas,,1,0,0,0
+DATA,Infrastruktur,Data Infrastruktur 01,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Non Prioritas,,1,0,0,0
+DATA,Infrastruktur,Data Infrastruktur 02,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Non Prioritas,,1,0,0,0
+DATA,Infrastruktur,Data Infrastruktur 03,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Prioritas,,1,0,1,100
+DATA,Infrastruktur,Data Infrastruktur 04,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Infrastruktur,Data Infrastruktur 05,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Infrastruktur,Data Infrastruktur 06,Kementerian Keuangan,Non Prioritas,,1,0,0,0
+DATA,Infrastruktur,Data Infrastruktur 07,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Non Prioritas,,1,0,0,0
+DATA,Infrastruktur,Data Infrastruktur 08,Kementerian Kesehatan,Prioritas,,1,0,1,100
+DATA,Infrastruktur,Data Infrastruktur 09,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Infrastruktur,Data Infrastruktur 10,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Infrastruktur,Data Infrastruktur 11,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Infrastruktur,Data Infrastruktur 12,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Infrastruktur,Data Infrastruktur 13,Kementerian Keuangan,Non Prioritas,,1,0,0,0
+DATA,Lingkungan,Data Lingkungan 01,Kementerian Koordinator Bidang Politik dan Keamanan,Non Prioritas,,1,0,0,0
+DATA,Lingkungan,Data Lingkungan 02,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Lingkungan,Data Lingkungan 03,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Non Prioritas,,1,0,0,0
+DATA,Lingkungan,Data Lingkungan 04,Kementerian Dalam Negeri,Prioritas,,1,0,1,100
+DATA,Lingkungan,Data Lingkungan 05,Kementerian Keuangan,Prioritas,,1,0,1,100
+DATA,Lingkungan,Data Lingkungan 06,Kementerian Kesehatan,Prioritas,,1,0,1,100
+DATA,Lingkungan,Data Lingkungan 07,Kementerian Dalam Negeri,Prioritas,,1,0,1,100
+DATA,Lingkungan,Data Lingkungan 08,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Lingkungan,Data Lingkungan 09,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Non Prioritas,,1,0,0,0
+DATA,Lingkungan,Data Lingkungan 10,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Lingkungan,Data Lingkungan 11,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Lingkungan,Data Lingkungan 12,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Lingkungan,Data Lingkungan 13,Kementerian Agama,Non Prioritas,,1,0,0,0
+DATA,Lingkungan,Data Lingkungan 14,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Kewilayahan,Data Kewilayahan 01,Kementerian Agama,Prioritas,,1,0,1,100
+DATA,Kewilayahan,Data Kewilayahan 02,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Non Prioritas,,1,0,0,0
+DATA,Kewilayahan,Data Kewilayahan 03,Kementerian Keuangan,Non Prioritas,,1,0,0,0
+DATA,Kewilayahan,Data Kewilayahan 04,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Kewilayahan,Data Kewilayahan 05,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Prioritas,,1,0,1,100
+DATA,Pendidikan,Data Pendidikan 01,Kementerian Agama,Prioritas,,1,0,1,100
+DATA,Pendidikan,Data Pendidikan 02,Kementerian Keuangan,Non Prioritas,,1,0,0,0
+DATA,Pendidikan,Data Pendidikan 03,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Non Prioritas,,1,0,0,0
+DATA,Pendidikan,Data Pendidikan 04,Kementerian Koordinator Bidang Politik dan Keamanan,Non Prioritas,,1,0,0,0
+DATA,Pendidikan,Data Pendidikan 05,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Pendidikan,Data Pendidikan 06,Kementerian Agama,Non Prioritas,,1,0,0,0
+DATA,Pendidikan,Data Pendidikan 07,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Pendidikan,Data Pendidikan 08,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Prioritas,,1,0,1,100
+DATA,Pendidikan,Data Pendidikan 09,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Non Prioritas,,1,0,0,0
+DATA,Pendidikan,Data Pendidikan 10,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Pendidikan,Data Pendidikan 11,Kementerian Dalam Negeri,Prioritas,,1,0,1,100
+DATA,Pendidikan,Data Pendidikan 12,Kementerian Agama,Non Prioritas,,1,0,0,0
+DATA,Kesehatan,Data Kesehatan 01,Kementerian Agama,Prioritas,,1,0,1,100
+DATA,Kesehatan,Data Kesehatan 02,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Non Prioritas,,1,0,0,0
+DATA,Kesehatan,Data Kesehatan 03,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Kesehatan,Data Kesehatan 04,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Non Prioritas,,1,0,0,0
+DATA,Kesehatan,Data Kesehatan 05,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Prioritas,,1,0,1,100
+DATA,Kesehatan,Data Kesehatan 06,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Hukum,Data Hukum 01,Kementerian Komunikasi dan Digital,Prioritas,,1,0,1,100
+DATA,Hukum,Data Hukum 02,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Hukum,Data Hukum 03,Kementerian Keuangan,Non Prioritas,,1,0,0,0
+DATA,Hukum,Data Hukum 04,Kementerian Kesehatan,Prioritas,,1,0,1,100
+DATA,Hukum,Data Hukum 05,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Hukum,Data Hukum 06,Kementerian Keuangan,Prioritas,,1,0,1,100
+DATA,Hukum,Data Hukum 07,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Hukum,Data Hukum 08,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Non Prioritas,,1,0,0,0
+DATA,Ketenagakerjaan,Data Ketenagakerjaan 01,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Non Prioritas,,1,0,0,0
+DATA,Ketenagakerjaan,Data Ketenagakerjaan 02,Kementerian Komunikasi dan Digital,Prioritas,,1,0,1,100
+DATA,Ketenagakerjaan,Data Ketenagakerjaan 03,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Prioritas,,1,0,1,100
+DATA,Ketenagakerjaan,Data Ketenagakerjaan 04,Kementerian Keuangan,Non Prioritas,,1,0,0,0
+DATA,Ketenagakerjaan,Data Ketenagakerjaan 05,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Non Prioritas,,1,0,0,0
+DATA,Ketenagakerjaan,Data Ketenagakerjaan 06,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Ketenagakerjaan,Data Ketenagakerjaan 07,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Ketenagakerjaan,Data Ketenagakerjaan 08,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Prioritas,,1,0,1,100
+DATA,Keuangan,Data Keuangan 01,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Keuangan,Data Keuangan 02,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Non Prioritas,,1,0,0,0
+DATA,Keuangan,Data Keuangan 03,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Keuangan,Data Keuangan 04,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Keuangan,Data Keuangan 05,Kementerian Agama,Non Prioritas,,1,0,0,0
+DATA,Keuangan,Data Keuangan 06,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Keuangan,Data Keuangan 07,Kementerian Koordinator Bidang Politik dan Keamanan,Non Prioritas,,1,0,0,0
+DATA,Keuangan,Data Keuangan 08,Kementerian Komunikasi dan Digital,Prioritas,,1,0,1,100
+DATA,Keuangan,Data Keuangan 09,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Non Prioritas,,1,0,0,0
+DATA,Keuangan,Data Keuangan 10,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Prioritas,,1,0,1,100
+DATA,Keuangan,Data Keuangan 11,Kementerian Dalam Negeri,Prioritas,,1,0,1,100
+DATA,Keuangan,Data Keuangan 12,Kementerian Koordinator Bidang Politik dan Keamanan,Non Prioritas,,1,0,0,0
+DATA,Keuangan,Data Keuangan 13,Kementerian Keuangan,Non Prioritas,,1,0,0,0
+DATA,Keuangan,Data Keuangan 14,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Pangan dan Pertanian,Data Pangan dan Pertanian 01,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional,Non Prioritas,,1,0,0,0
+DATA,Pangan dan Pertanian,Data Pangan dan Pertanian 02,Kementerian Komunikasi dan Digital,Non Prioritas,,1,0,0,0
+DATA,Pangan dan Pertanian,Data Pangan dan Pertanian 03,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Pangan dan Pertanian,Data Pangan dan Pertanian 04,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Pangan dan Pertanian,Data Pangan dan Pertanian 05,Kementerian Keuangan,Non Prioritas,,1,0,0,0
+DATA,Pangan dan Pertanian,Data Pangan dan Pertanian 06,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Pangan dan Pertanian,Data Pangan dan Pertanian 07,Kementerian Agama,Non Prioritas,,1,0,0,0
+DATA,Energi,Data Energi 01,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Energi,Data Energi 02,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Energi,Data Energi 03,Kementerian Dalam Negeri,Prioritas,,1,0,1,100
+DATA,Energi,Data Energi 04,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Energi,Data Energi 05,Kementerian Dalam Negeri,Non Prioritas,,1,0,0,0
+DATA,Energi,Data Energi 06,Kementerian Dalam Negeri,Prioritas,,1,0,1,100
+DATA,Energi,Data Energi 07,Kementerian Komunikasi dan Digital,Prioritas,,1,0,1,100
+DATA,Pertahanan dan Keamanan,Data Pertahanan dan Keamanan 01,Kementerian Koordinator Bidang Politik dan Keamanan,Non Prioritas,,1,0,0,0
+DATA,Pertahanan dan Keamanan,Data Pertahanan dan Keamanan 02,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Non Prioritas,,1,0,0,0
+DATA,Pertahanan dan Keamanan,Data Pertahanan dan Keamanan 03,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,Prioritas,,1,0,1,100
+DATA,Pertahanan dan Keamanan,Data Pertahanan dan Keamanan 04,Kementerian Keuangan,Non Prioritas,,1,0,0,0
+DATA,Pertahanan dan Keamanan,Data Pertahanan dan Keamanan 05,Kementerian Agama,Prioritas,,1,0,1,100
+DATA,Pertahanan dan Keamanan,Data Pertahanan dan Keamanan 06,Kementerian Kesehatan,Non Prioritas,,1,0,0,0
+DATA,Pertahanan dan Keamanan,Data Pertahanan dan Keamanan 07,Kementerian Keuangan,Prioritas,,1,0,1,100
+DATA,Pertahanan dan Keamanan,Data Pertahanan dan Keamanan 08,Kementerian Komunikasi dan Digital,Prioritas,,1,0,1,100
